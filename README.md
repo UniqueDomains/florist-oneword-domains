@@ -67,10 +67,10 @@ print(df.head())
 | live.florist   | available | $14.99    | $46.99        | 108            | 56     | 4      | name.com                                                           |
 | space.florist  | resell    | —         | —             | 76             | 60     | 5      | Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság |
 | free.florist   | premium   | $42.90    | $42.90        | 88             | 59     | 4      | namecheap                                                          |
-| zero.florist   | available | $14.99    | $46.99        | 112            | 54     | 4      | name.com                                                           |
+| alpha.florist  | available | $14.99    | $46.99        | 90             | 54     | 5      | name.com                                                           |
 | smart.florist  | resell    | —         | —             | 74             | 56     | 5      | Dynadot Inc                                                        |
 | ace.florist    | premium   | $123.75   | $123.75       | 88             | 57     | 3      | name.com                                                           |
-| alpha.florist  | available | $14.99    | $46.99        | 90             | 54     | 5      | name.com                                                           |
+| zero.florist   | available | $14.99    | $46.99        | 112            | 53     | 4      | name.com                                                           |
 | email.florist  | resell    | —         | —             | 106            | 54     | 6      | Sav.com, LLC                                                       |
 | art.florist    | premium   | $85.80    | $85.80        | 90             | 52     | 3      | namecheap                                                          |
 | good.florist   | available | $14.99    | $46.99        | 82             | 53     | 4      | name.com                                                           |
