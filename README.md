@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .florist one-word domains from Uni
 
 **Public extract:** 9,786 rows · **Live catalog:** 9,786 domains
 
-**Last updated:** 2026-04-11  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/florist`  
 **Best for:** founders, investors, studios
 
@@ -64,13 +64,13 @@ print(df.head())
 
 | domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                          |
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------------------ |
-| live.florist   | available | $14.99    | $46.99        | 108            | 55     | 4      | name.com                                                           |
+| live.florist   | available | $14.99    | $46.99        | 108            | 56     | 4      | name.com                                                           |
 | space.florist  | resell    | —         | —             | 76             | 60     | 5      | Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság |
 | free.florist   | premium   | $42.90    | $42.90        | 88             | 59     | 4      | namecheap                                                          |
 | zero.florist   | available | $14.99    | $46.99        | 112            | 54     | 4      | name.com                                                           |
 | smart.florist  | resell    | —         | —             | 74             | 56     | 5      | Dynadot Inc                                                        |
 | ace.florist    | premium   | $123.75   | $123.75       | 88             | 57     | 3      | name.com                                                           |
-| alpha.florist  | available | $14.99    | $46.99        | 90             | 53     | 5      | name.com                                                           |
+| alpha.florist  | available | $14.99    | $46.99        | 90             | 54     | 5      | name.com                                                           |
 | email.florist  | resell    | —         | —             | 106            | 54     | 6      | Sav.com, LLC                                                       |
 | art.florist    | premium   | $85.80    | $85.80        | 90             | 52     | 3      | namecheap                                                          |
 | good.florist   | available | $14.99    | $46.99        | 82             | 53     | 4      | name.com                                                           |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FLORIST One-Word Domains*. Version 2026-04-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FLORIST One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
