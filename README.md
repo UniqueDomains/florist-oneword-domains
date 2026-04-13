@@ -66,10 +66,10 @@ print(df.head())
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------------------ |
 | live.florist   | available | $14.99    | $46.99        | 108            | 56     | 4      | name.com                                                           |
 | space.florist  | resell    | —         | —             | 76             | 60     | 5      | Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság |
-| free.florist   | premium   | $42.90    | $42.90        | 88             | 59     | 4      | namecheap                                                          |
+| ace.florist    | premium   | $123.75   | $123.75       | 88             | 57     | 3      | name.com                                                           |
 | zero.florist   | available | $14.99    | $46.99        | 112            | 53     | 4      | name.com                                                           |
 | smart.florist  | resell    | —         | —             | 74             | 56     | 5      | Dynadot Inc                                                        |
-| ace.florist    | premium   | $123.75   | $123.75       | 88             | 57     | 3      | name.com                                                           |
+| free.florist   | premium   | $42.90    | $42.90        | 88             | 57     | 4      | namecheap                                                          |
 | alpha.florist  | available | $14.99    | $46.99        | 90             | 53     | 5      | name.com                                                           |
 | email.florist  | resell    | —         | —             | 106            | 54     | 6      | Sav.com, LLC                                                       |
 | art.florist    | premium   | $85.80    | $85.80        | 90             | 52     | 3      | namecheap                                                          |
@@ -79,10 +79,10 @@ print(df.head())
 | game.florist   | available | $14.99    | $46.99        | 120            | 50     | 4      | name.com                                                           |
 | true.florist   | resell    | —         | —             | 86             | 52     | 4      | GoDaddy.com, LLC                                                   |
 | real.florist   | premium   | $85.80    | $85.80        | 78             | 49     | 4      | namecheap                                                          |
-| design.florist | available | $14.99    | $46.99        | 108            | 50     | 6      | name.com                                                           |
+| life.florist   | available | $41.98    | —             | 84             | 50     | 4      | namecheap                                                          |
 | air.florist    | resell    | —         | —             | 84             | 49     | 3      | Dynadot Inc                                                        |
 | travel.florist | premium   | $520      | $520          | 115            | 48     | 6      | namecheap                                                          |
-| life.florist   | available | $41.98    | —             | 84             | 50     | 4      | namecheap                                                          |
+| simple.florist | available | $14.99    | $46.99        | 128            | 49     | 6      | name.com                                                           |
 | and.florist    | resell    | —         | —             | 108            | 48     | 3      | Sav.com, LLC                                                       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
