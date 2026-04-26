@@ -1,22 +1,22 @@
-# Available .FLORIST One-Word Domains (9,786)
+# Available .FLORIST One-Word Domains (12,183)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C787%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C786%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C183%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .florist one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .florist one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **12,183 domains** on the canonical page below.
 
-**Public extract:** 9,787 rows · **Live catalog:** 9,786 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,183 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/florist`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .FLORIST one-word doma
 
 ### Files
 
-- `florist.csv` — public CSV extract (9,787 rows)
-- `florist.json` — public JSON extract (9,787 rows)
+- `florist.csv` — public CSV extract (1,000 rows)
+- `florist.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                          |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------------------ |
-| live.florist   | available | $14.99    | $46.99        | 108            | 56     | 4      | name.com                                                           |
-| space.florist  | resell    | —         | —             | 76             | 60     | 5      | Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság |
-| ace.florist    | premium   | $123.75   | $123.75       | 88             | 57     | 3      | name.com                                                           |
-| zero.florist   | available | $14.99    | $46.99        | 112            | 53     | 4      | name.com                                                           |
-| smart.florist  | resell    | —         | —             | 74             | 56     | 5      | Dynadot Inc                                                        |
-| free.florist   | premium   | $42.90    | $42.90        | 88             | 57     | 4      | namecheap                                                          |
-| alpha.florist  | available | $14.99    | $46.99        | 90             | 53     | 5      | name.com                                                           |
-| email.florist  | resell    | —         | —             | 106            | 54     | 6      | Sav.com, LLC                                                       |
-| art.florist    | premium   | $85.80    | $85.80        | 90             | 52     | 3      | namecheap                                                          |
-| good.florist   | available | $14.99    | $46.99        | 82             | 53     | 4      | name.com                                                           |
-| shop.florist   | resell    | —         | —             | 78             | 54     | 4      | GoDaddy.com, LLC                                                   |
-| abc.florist    | premium   | $85.80    | $85.80        | 102            | 50     | 3      | namecheap                                                          |
-| game.florist   | available | $14.99    | $46.99        | 120            | 50     | 4      | name.com                                                           |
-| true.florist   | resell    | —         | —             | 86             | 52     | 4      | GoDaddy.com, LLC                                                   |
-| real.florist   | premium   | $85.80    | $85.80        | 78             | 49     | 4      | namecheap                                                          |
-| life.florist   | available | $41.98    | —             | 84             | 50     | 4      | namecheap                                                          |
-| air.florist    | resell    | —         | —             | 84             | 49     | 3      | Dynadot Inc                                                        |
-| travel.florist | premium   | $520      | $520          | 115            | 48     | 6      | namecheap                                                          |
-| simple.florist | available | $14.99    | $46.99        | 128            | 49     | 6      | name.com                                                           |
-| and.florist    | resell    | —         | —             | 108            | 48     | 3      | Sav.com, LLC                                                       |
+| domain                     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| -------------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| agents.florist             | available | $14.99    | —             | 56             | 50     | 6      | name.com  |
+| justin.florist             | premium   | $123.75   | —             | 58             | 38     | 7      | name.com  |
+| WiFi.florist               | available | $41.98    | —             | 83             | 37     | 5      | namecheap |
+| designs.florist            | premium   | $123.75   | —             | 72             | 21     | 7      | name.com  |
+| neuroscience.florist       | available | $14.99    | —             | 80             | 37     | 12     | name.com  |
+| Phillip.florist            | premium   | $46.20    | $46.20        | 70             | 14     | 7      | namecheap |
+| aliens.florist             | available | $14.99    | —             | 56             | 35     | 6      | name.com  |
+| thanksgiving.florist       | premium   | $123.75   | —             | 84             | 13     | 12     | name.com  |
+| spectra.florist            | available | $14.99    | —             | 62             | 34     | 7      | name.com  |
+| reston.florist             | premium   | $123.75   | —             | 75             | 10     | 7      | name.com  |
+| Cats.florist               | available | $41.98    | —             | 59             | 33     | 4      | namecheap |
+| HoChiMinhCity.florist      | premium   | $38.94    | $38.94        | 64             | 7      | 16     | namesilo  |
+| payments.florist           | available | $14.99    | —             | 58             | 33     | 8      | name.com  |
+| sentiments.florist         | premium   | $123.75   | —             | 56             | 6      | 10     | name.com  |
+| solutions.florist          | available | $14.99    | —             | 56             | 31     | 9      | name.com  |
+| DistrictofColumbia.florist | premium   | $92.40    | $92.40        | 52             | 4      | 20     | namecheap |
+| rewards.florist            | available | $14.99    | —             | 62             | 30     | 7      | name.com  |
+| spaces.florist             | available | $14.99    | —             | 54             | 30     | 6      | name.com  |
+| popup.florist              | available | $14.99    | —             | 84             | 29     | 6      | name.com  |
+| commonground.florist       | available | $14.99    | —             | 74             | 28     | 13     | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,787-row public sample | 9,786 live domains                               |
+| 1,000-row public sample | 12,183 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FLORIST One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FLORIST One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
