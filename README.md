@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .florist one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,762 domains · **Median ask:** $18.53 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/florist`  
 **Best for:** founders, investors, studios
 
@@ -79,7 +79,7 @@ print(df.head())
 | solutions.florist    | available | $14.99    | —             | 56             | 31     | 9      | name.com  |
 | slots.florist        | available | $14.99    | —             | 49             | 31     | 5      | name.com  |
 | rewards.florist      | available | $14.99    | —             | 62             | 30     | 7      | name.com  |
-| popup.florist        | available | $14.99    | —             | 84             | 29     | 6      | name.com  |
+| popup.florist        | available | $14.99    | —             | 84             | 28     | 6      | name.com  |
 | commonground.florist | available | $14.99    | —             | 74             | 28     | 13     | name.com  |
 | backyard.florist     | available | $14.99    | —             | 80             | 27     | 9      | name.com  |
 | KFC.florist          | available | $41.98    | —             | 74             | 27     | 3      | namecheap |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FLORIST One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FLORIST One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
