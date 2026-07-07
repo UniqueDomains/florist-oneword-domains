@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .florist one-word domains f
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,762 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,762 domains · **Median ask:** $18.53 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,762 domains · **Median ask:** $18.23 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/florist`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/florist`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .FLORIST one-word doma
 
 ### Files
 
-- `florist.csv` — public CSV extract (1,000 rows)
-- `florist.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `florist.csv`, public CSV extract (1,000 rows)
+- `florist.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| agents.florist       | available | $14.99    | —             | 56             | 50     | 6      | name.com  |
-| designs.florist      | premium   | $123.75   | —             | 72             | 21     | 7      | name.com  |
-| WiFi.florist         | available | $41.98    | —             | 83             | 37     | 5      | namecheap |
-| oaks.florist         | premium   | $78.54    | $78.54        | 53             | 16     | 4      | namesilo  |
-| neuroscience.florist | available | $14.99    | —             | 80             | 37     | 12     | name.com  |
-| buds.florist         | premium   | $78.54    | $78.54        | 54             | 15     | 4      | namesilo  |
-| aliens.florist       | available | $14.99    | —             | 56             | 35     | 6      | name.com  |
-| thanksgiving.florist | premium   | $123.75   | —             | 84             | 13     | 12     | name.com  |
-| spectra.florist      | available | $14.99    | —             | 62             | 34     | 7      | name.com  |
-| reston.florist       | premium   | $123.75   | —             | 75             | 10     | 7      | name.com  |
-| payments.florist     | available | $14.99    | —             | 58             | 33     | 8      | name.com  |
-| sentiments.florist   | premium   | $123.75   | —             | 56             | 6      | 10     | name.com  |
-| solutions.florist    | available | $14.99    | —             | 56             | 31     | 9      | name.com  |
-| slots.florist        | available | $14.99    | —             | 49             | 31     | 5      | name.com  |
-| rewards.florist      | available | $14.99    | —             | 62             | 30     | 7      | name.com  |
-| popup.florist        | available | $14.99    | —             | 84             | 28     | 6      | name.com  |
-| commonground.florist | available | $14.99    | —             | 74             | 28     | 13     | name.com  |
-| backyard.florist     | available | $14.99    | —             | 80             | 27     | 9      | name.com  |
-| KFC.florist          | available | $41.98    | —             | 74             | 27     | 3      | namecheap |
-| trades.florist       | available | $14.99    | —             | 71             | 26     | 6      | name.com  |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| ADS.florist     | available | $14.99    | —             | high           | medium | 3      | name.com  |
+| premier.florist | resell    | —         | —             | high           | low    | 7      | eNom, LLC |
+| art.florist     | premium   | $85.80    | $85.80        | high           | medium | 3      | namecheap |
+| apt.florist     | available | $14.99    | —             | high           | low    | 3      | name.com  |
+| DIY.florist     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo  |
+| bus.florist     | available | $14.99    | —             | high           | low    | 3      | name.com  |
+| joy.florist     | premium   | $242      | $242          | high           | medium | 3      | namesilo  |
+| CNN.florist     | available | $14.99    | —             | high           | low    | 3      | name.com  |
+| usa.florist     | premium   | $500      | —             | high           | medium | 3      | name.com  |
+| cue.florist     | available | $14.99    | —             | medium         | low    | 3      | name.com  |
+| adam.florist    | premium   | $78.54    | $78.54        | medium         | high   | 4      | namesilo  |
+| dad.florist     | available | $14.99    | —             | high           | low    | 3      | name.com  |
+| city.florist    | premium   | $78.54    | $78.54        | high           | medium | 4      | namesilo  |
+| did.florist     | available | $14.99    | —             | high           | low    | 3      | name.com  |
+| kiev.florist    | premium   | $38.94    | $38.94        | high           | low    | 4      | namesilo  |
+| die.florist     | available | $14.99    | —             | medium         | low    | 3      | name.com  |
+| only.florist    | premium   | $123.75   | $123.75       | high           | medium | 4      | name.com  |
+| eve.florist     | available | $14.99    | —             | high           | medium | 3      | name.com  |
+| ruby.florist    | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo  |
+| fix.florist     | available | $14.99    | —             | medium         | low    | 3      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is entirely made up of .florist domains, a niche extension that states the business category directly in the name. The selection ranges from short, plain words like solo.florist to more unusual or descriptive combinations like silent.florist, backup.florist, and coffeebreak.florist. When comparing these domains, focus first on whether the word before .florist is easy to say, easy to remember, and commercially sensible for a flower business. Then check price discipline against the median ask of 18.53. For buyers who want a clear category signal, .florist can be precise, but the exact word choice matters more here than broad extension familiarity.
+This selection contains 12,762 one-word domain names registered under the .florist extension. Rather than strictly floral vocabulary, the names span everyday words — from becalled.florist and gearup.florist to jewels.florist and solarenergy.florist. The median asking price across the set is about $18, making most names accessible to buy outright. Because renewal and resale data aren't available for this set, compare each name's price, length, and brandability directly before deciding.
 
-- All names in this selection use the .florist extension
-- Median ask across the set is 18.53
-- Short, clear words usually read better with .florist
-- Avoid words that feel confusing or commercially mismatched
+- 12,762 one-word domains under the .florist extension
+- Median asking price near $18 across the selection
+- Names span everyday words, not just floral terms
+- Compare price, length, and brandability before buying
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FLORIST One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FLORIST One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
