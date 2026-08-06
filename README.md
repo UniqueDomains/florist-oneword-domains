@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .florist one-word domains f
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,762 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,762 domains · **Median ask:** $18.23 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,762 domains · **Median ask:** $17.91 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-07-07
+**Last updated:** 2026-08-06
 **Canonical page:** `https://unique.domains/domains/tld/florist`
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| ADS.florist     | available | $14.99    | —             | high           | medium | 3      | name.com  |
+| abo.florist     | available | $14.99    | $46.99        | low            | low    | 3      | name.com  |
 | premier.florist | resell    | —         | —             | high           | low    | 7      | eNom, LLC |
 | art.florist     | premium   | $85.80    | $85.80        | high           | medium | 3      | namecheap |
-| apt.florist     | available | $14.99    | —             | high           | low    | 3      | name.com  |
+| ADS.florist     | available | $14.99    | —             | high           | medium | 3      | name.com  |
 | DIY.florist     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo  |
-| bus.florist     | available | $14.99    | —             | high           | low    | 3      | name.com  |
+| apt.florist     | available | $14.99    | —             | high           | low    | 3      | name.com  |
 | joy.florist     | premium   | $242      | $242          | high           | medium | 3      | namesilo  |
-| CNN.florist     | available | $14.99    | —             | high           | low    | 3      | name.com  |
+| bus.florist     | available | $14.99    | —             | high           | low    | 3      | name.com  |
 | usa.florist     | premium   | $500      | —             | high           | medium | 3      | name.com  |
-| cue.florist     | available | $14.99    | —             | medium         | low    | 3      | name.com  |
+| CNN.florist     | available | $14.99    | —             | high           | low    | 3      | name.com  |
 | adam.florist    | premium   | $78.54    | $78.54        | medium         | high   | 4      | namesilo  |
-| dad.florist     | available | $14.99    | —             | high           | low    | 3      | name.com  |
+| cue.florist     | available | $14.99    | —             | medium         | low    | 3      | name.com  |
 | city.florist    | premium   | $78.54    | $78.54        | high           | medium | 4      | namesilo  |
-| did.florist     | available | $14.99    | —             | high           | low    | 3      | name.com  |
+| dad.florist     | available | $14.99    | —             | high           | low    | 3      | name.com  |
 | kiev.florist    | premium   | $38.94    | $38.94        | high           | low    | 4      | namesilo  |
-| die.florist     | available | $14.99    | —             | medium         | low    | 3      | name.com  |
+| did.florist     | available | $14.99    | —             | high           | low    | 3      | name.com  |
 | only.florist    | premium   | $123.75   | $123.75       | high           | medium | 4      | name.com  |
-| eve.florist     | available | $14.99    | —             | high           | medium | 3      | name.com  |
+| die.florist     | available | $14.99    | —             | medium         | low    | 3      | name.com  |
 | ruby.florist    | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo  |
-| fix.florist     | available | $14.99    | —             | medium         | low    | 3      | name.com  |
+| eve.florist     | available | $14.99    | —             | high           | medium | 3      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -95,7 +95,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 | ----------------------- | ------------------------------------------ |
 | 1,000-row public sample | 12,762 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 2 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FLORIST One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FLORIST One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
