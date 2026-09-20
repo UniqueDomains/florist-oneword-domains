@@ -18,7 +18,7 @@ c3110c24-671a-497e-89c0-071583a0acb0,fold.florist,available,14.99,,high,low,4,na
 36c2f091-7f34-4cf5-8d2b-e90a54230838,kindof.florist,available,14.99,,medium,low,7,name.com,,,
 d27b109d-9591-409e-830d-51f47a010788,solution.florist,available,14.99,,high,low,8,name.com,,,
 632f1621-531c-4e92-9908-6ed885137e7e,aplanatic.florist,available,14.99,46.99,low,low,9,name.com,,,06/08/2026 00:29
-65149cd8-7a5e-403d-8756-ee86b5b45189,network.florist,available,14.99,,high,medium,7,name.com,,,
+65149cd8-7a5e-403d-8756-ee86b5b45189,network.florist,available,32.99,32.99,low,low,7,namesilo,,,19/09/2026 04:36
 aada4b77-81fc-44ca-a497-82907d3cf44a,inundated.florist,available,14.99,46.99,low,low,9,name.com,,,08/08/2026 00:29
 37a56992-82da-4044-bcd7-fa16ec5c2794,tongue.florist,available,14.99,,medium,low,6,name.com,,,
 d2336989-65b6-47a5-996f-9bae038b7689,turn.florist,available,14.99,,high,low,4,name.com,,,
@@ -40,7 +40,7 @@ bd867dfe-270f-40f8-9b4a-6c3bae36d542,bitter.florist,available,14.99,46.99,low,lo
 9eb1acb7-ada0-4276-bcbc-f175c06ba413,theabsurd.florist,available,14.99,46.99,low,low,10,name.com,,,
 ce54df85-e70d-4755-9e38-33ce0fe15ae6,sharp.florist,available,14.99,46.99,high,low,5,name.com,,,
 ec276588-8fd1-4bc5-8e2f-9c172c77fa1c,hall.florist,available,14.99,,high,low,4,name.com,,,
-60f09f2c-a15d-456d-916a-0cdc04c4e076,NWO.florist,available,14.99,,medium,low,3,name.com,,,
+60f09f2c-a15d-456d-916a-0cdc04c4e076,nwo.florist,available,14.99,,medium,low,3,name.com,,,
 6545fa60-0b61-406d-9dac-e5effafc60e2,rail.florist,available,14.99,,high,low,4,name.com,,,
 49c32d40-7432-4222-af06-f9c5c29a3f75,november.florist,available,14.99,,high,low,8,name.com,,,
 3a3343e3-4652-413f-ade0-58f19246a17a,fix.florist,available,14.99,,medium,low,3,name.com,,,
@@ -122,7 +122,7 @@ ec553ef6-35b2-4fa2-83f0-cf83528cbfde,inlaw.florist,available,14.99,,high,low,6,n
 9cd197b1-c947-495b-9b50-d4ac4d716414,ague.florist,available,14.99,46.99,low,low,4,name.com,,,
 e8014fc5-ea0d-4400-8734-8de75ccc0b2e,popular.florist,available,14.99,,high,low,7,name.com,,,
 ad2572a0-3d3b-4215-9a80-de961e7a5648,baggage.florist,available,14.99,,high,low,7,name.com,,,
-99d4c66f-886d-4670-9e98-178ca8f05659,pizza.florist,available,31.98,41.98,medium,medium,5,namecheap,,,15/09/2026 01:18
+99d4c66f-886d-4670-9e98-178ca8f05659,pizza.florist,available,32.99,32.99,medium,low,5,namesilo,,,19/09/2026 05:58
 f30c685e-5b02-483d-8e06-10a59b34b2cf,belong.florist,available,14.99,,high,low,6,name.com,,,
 79955677-88d3-4c86-a155-1f8883662733,precise.florist,available,14.99,,high,low,7,name.com,,,
 f68fbf11-c826-4681-9931-11d9a86f0669,wagon.florist,available,14.99,,medium,low,5,name.com,,,
@@ -133,7 +133,7 @@ bd9583d4-76c4-4463-a582-576e5008fc3c,carryon.florist,available,14.99,,high,low,8
 88efe634-7021-4d1d-a909-bcf5786d08bf,manya.florist,available,14.99,,medium,low,6,name.com,,,
 d50a6992-9c60-43a2-8470-36b79a3adcbd,mouthwash.florist,available,14.99,,medium,low,10,name.com,,,
 8f47829d-cd9a-45e4-b369-a13b2cd532c5,bold.florist,available,14.99,,high,low,4,name.com,,,
-c6efa82a-cac3-4d11-8cbb-7025f544d0a4,WestEuropean.florist,available,14.99,,low,low,13,name.com,,,
+c6efa82a-cac3-4d11-8cbb-7025f544d0a4,westeuropean.florist,available,14.99,,low,low,13,name.com,,,
 6ef514ba-d1f7-4fd3-8cca-f12d1010feea,clock.florist,available,14.99,,medium,low,5,name.com,,,
 c0a4057e-a9b3-4341-ae8f-a4b314972f04,tasting.florist,available,14.99,,high,low,7,name.com,,,
 8987809e-24de-42ac-aef2-e6a09e82c2b0,childneglect.florist,available,14.99,,medium,low,13,name.com,,,
@@ -174,10 +174,10 @@ ffa645e5-8b79-47e5-a746-d549b4cdf112,sidelong.florist,available,14.99,46.99,low,
 fb1a7de9-2684-4686-9fb3-9b51ae8fd639,plunkfor.florist,available,14.99,46.99,low,low,9,name.com,,,08/08/2026 05:28
 eb785a23-fe58-44b3-8d46-ecc71cb02ffc,strategic.florist,available,14.99,,high,low,9,name.com,,,
 716cc2ed-f31f-4c0f-bf3d-9df282cd464e,congrats.florist,available,14.99,,high,low,8,name.com,,,
-3c79b156-2ef9-4958-8264-6beb9770306a,Fairs.florist,available,14.99,,high,low,5,name.com,,,
-79452486-1f6c-46b1-aec3-04ac51e1310a,Barbiepink.florist,available,14.99,,high,low,11,name.com,,,
+3c79b156-2ef9-4958-8264-6beb9770306a,fairs.florist,available,14.99,,high,low,5,name.com,,,
+79452486-1f6c-46b1-aec3-04ac51e1310a,barbiepink.florist,available,14.99,,high,low,11,name.com,,,
 9aa0ba8c-5c2a-45f3-8cdf-fe8d4fcde6c5,robed.florist,available,14.99,46.99,low,low,5,name.com,,,06/08/2026 05:03
-73ae2d9f-b975-4758-ba82-7f85abf0c562,AsianTiger.florist,available,14.99,,medium,low,11,name.com,,,
+73ae2d9f-b975-4758-ba82-7f85abf0c562,asiantiger.florist,available,14.99,,medium,low,11,name.com,,,
 b2b30b30-5e8f-4702-becf-d50731921615,lit.florist,available,14.99,,high,medium,3,name.com,,,
 29e33b64-c46d-4b59-82ab-48a89d184e41,gonewrong.florist,available,14.99,,medium,low,10,name.com,,,
 82d31a95-6641-4c5f-8c90-e43481e0dbd9,arabian.florist,available,14.99,46.99,low,low,7,name.com,,,06/08/2026 11:05
@@ -189,19 +189,19 @@ dfdf0459-7d9e-4139-93c0-a59d777d9aba,seeming.florist,available,14.99,,high,low,7
 0c2dc212-1b8b-4a46-bb5a-c20772fbe1f1,givesomeoneabreak.florist,available,14.99,,high,low,20,name.com,,,
 731e19db-67a1-4cbc-9b87-310df469e6d9,conveyable.florist,available,14.99,46.99,low,low,10,name.com,,,07/08/2026 06:24
 de539e66-7c57-4ad9-b602-419e84360284,fond.florist,available,14.99,46.99,high,low,4,name.com,,,
-65be9af0-362a-4c90-9b96-a1cece8b8b94,Harold.florist,premium,78.54,78.54,high,low,6,namesilo,,,
+65be9af0-362a-4c90-9b96-a1cece8b8b94,harold.florist,premium,78.54,78.54,high,low,6,namesilo,,,
 78feb70a-49ce-4b26-9709-b0ffc846f951,rubbingoil.florist,available,14.99,,low,low,11,name.com,,,
 54c948c8-0872-4553-836f-96a928c7bc9e,aufait.florist,available,14.99,46.99,low,low,7,name.com,,,
 8b9c71e1-7339-418c-b145-daa4f1161c28,apodictic.florist,available,14.99,46.99,low,low,9,name.com,,,06/08/2026 01:27
-2a6199ba-cdfa-4351-833d-6ffa604c659b,DIY.florist,premium,118.8,118.8,high,low,3,namesilo,,,
-2ece2ec0-e4fb-4861-a216-329968eaaddc,proof.florist,available,14.99,,high,low,5,name.com,,,
+2a6199ba-cdfa-4351-833d-6ffa604c659b,diy.florist,premium,118.8,118.8,high,low,3,namesilo,,,
+2ece2ec0-e4fb-4861-a216-329968eaaddc,proof.florist,available,32.99,32.99,medium,low,5,namesilo,,,19/09/2026 13:10
 95c6f44a-d96c-44c7-b19d-65785c9aae17,glasses.florist,available,14.99,,high,low,7,name.com,,,
 924f4812-e813-4b53-ba39-d6703e23b6d1,thirtytwo.florist,available,14.99,46.99,low,low,10,name.com,,,
 ae1841ac-4ab5-4438-8ffc-9ee373290b1c,speech.florist,available,14.99,,high,low,6,name.com,,,
 a4374e91-e5c7-4cc8-b91f-7caf9d7372cd,berserk.florist,available,14.99,46.99,low,low,7,name.com,,,
 53097b0d-cdd4-4ca6-a1f4-5b00fd1f106a,control.florist,available,31.98,41.98,medium,low,7,namecheap,,,08/09/2026 08:00
 e93129e9-c813-4838-968a-66264238fdde,identify.florist,available,14.99,,high,low,8,name.com,,,
-50c9328a-ea90-4921-8b76-d5ae52966516,Bets.florist,available,14.99,,high,low,4,name.com,,,
+50c9328a-ea90-4921-8b76-d5ae52966516,bets.florist,available,14.99,,high,low,4,name.com,,,
 0baffbfb-a52c-49d4-bb39-dd373f5938aa,die.florist,available,14.99,,medium,low,3,name.com,,,
 2fb784c0-60a7-44e0-a78e-92ae004bbf84,visiting.florist,available,14.99,,medium,low,8,name.com,,,
 ba527a8d-27e4-4d6a-bd9e-d0f29b9787f9,until.florist,available,14.99,,medium,low,5,name.com,,,
@@ -267,7 +267,7 @@ a6230aa5-4629-4477-a6ae-41ac1af80073,carrying.florist,available,14.99,,high,low,
 25500855-0047-4cbc-b450-b404ece8578d,aboriginal.florist,available,14.99,46.99,low,low,10,name.com,,,
 3a5bbe4b-9bac-4562-8826-9c49597bbe1f,dollarsign.florist,available,14.99,,medium,low,11,name.com,,,
 543566f0-336d-4236-9a66-b5520a1b78e1,auditive.florist,available,14.99,46.99,low,low,8,name.com,,,07/08/2026 16:49
-f8122724-b6fb-45c4-a80b-264e1d331cac,Tuesdays.florist,available,14.99,,low,low,8,name.com,,,
+f8122724-b6fb-45c4-a80b-264e1d331cac,tuesdays.florist,available,14.99,,low,low,8,name.com,,,
 61504e15-387a-4784-9240-5859d2d6304d,xxiv.florist,available,14.99,46.99,low,low,4,name.com,,,
 22d7ba0f-f277-40d8-ad32-bb79d0533dcf,marks.florist,premium,78.54,78.54,medium,low,5,namesilo,,,
 b1e88da8-9a5c-43ec-af50-da75b0710f76,searchbox.florist,available,14.99,,high,low,10,name.com,,,
@@ -286,17 +286,17 @@ f91b4497-f86d-4be3-a08c-696739fe5074,closeofplay.florist,available,14.99,,high,l
 8559428c-e65c-435e-8d32-62e265f8a96b,tilldate.florist,available,14.99,,low,low,9,name.com,,,
 b153e464-8da1-47b5-a3c6-e77cd145d51a,guarantee.florist,available,14.99,,high,low,9,name.com,,,
 1a28f633-8ace-4007-9f44-b8bfead4c9bc,relevance.florist,available,14.99,,high,low,9,name.com,,,
-5f841fe7-077f-4cbc-b480-439829278244,operation.florist,available,14.99,,high,low,9,name.com,,,
+5f841fe7-077f-4cbc-b480-439829278244,operation.florist,available,32.99,32.99,medium,low,9,namesilo,,,19/09/2026 07:38
 986bdb77-8088-4c0b-9a0f-6ecab69574f0,coverup.florist,available,14.99,,medium,low,8,name.com,,,
 a3737500-3063-44a9-bba3-f2ea4ec41774,grassroots.florist,available,14.99,46.99,low,low,11,name.com,,,20/08/2026 18:16
 4d5c0ad2-83d6-4033-87da-30d22d2f1c77,amnesiac.florist,available,14.99,46.99,low,low,8,name.com,,,
 08825183-7244-47c3-96d0-51e970910efc,backstairs.florist,available,14.99,46.99,low,low,10,name.com,,,08/08/2026 06:26
 c9117053-53ae-4f5c-98bf-e332d9f7c106,abrupt.florist,available,14.99,46.99,low,low,6,name.com,,,
-45f635b9-3590-4e22-9378-7577dae2cb78,Rihanna.florist,available,14.99,,high,low,7,name.com,,,
+45f635b9-3590-4e22-9378-7577dae2cb78,rihanna.florist,available,14.99,,high,low,7,name.com,,,
 6347aaab-abca-4dbe-9053-29c7067b2765,regurgitate.florist,available,14.99,,high,low,11,name.com,,,
 c66d70e4-dcb0-4a50-bd07-5be55320a2af,indigenous.florist,available,14.99,46.99,low,low,10,name.com,,,07/08/2026 19:31
 77b23dd0-94b2-4c57-8f1d-a50e6ce942f3,composite.florist,available,14.99,46.99,high,low,9,name.com,,,
-ba8da3b2-1b49-450f-9e26-25dfe5862ac9,CNN.florist,available,14.99,,high,low,3,name.com,,,
+ba8da3b2-1b49-450f-9e26-25dfe5862ac9,cnn.florist,available,14.99,,high,low,3,name.com,,,
 449fb497-7a73-4ffb-9c1d-8bb89c5b4ecc,moneymarketfund.florist,available,14.99,,high,low,17,name.com,,,
 65e825b9-410f-4b91-a0fe-cad5b8027a06,timer.florist,available,14.99,,high,low,5,name.com,,,
 6ea6b150-2869-44bd-a541-39ae468d8c52,beatup.florist,available,14.99,,medium,low,7,name.com,,,
@@ -309,7 +309,7 @@ ee3a6e75-4a0b-4335-8d4b-5a66bc771e0c,swollen.florist,available,14.99,46.99,mediu
 40b8346e-b51c-40f0-851e-cc15bc26956b,fresh.florist,premium,118.8,118.8,high,low,5,namesilo,,,
 38985b78-8edc-47be-be4f-d11cd22a76f8,angolan.florist,available,14.99,46.99,low,low,7,name.com,,,
 1df0f776-e1cb-4f38-b706-2b01bb6320b7,voiceless.florist,available,14.99,46.99,low,low,9,name.com,,,05/08/2026 23:23
-69ab4596-3e9c-43fc-b871-c3f120ce9382,TimesSquare.florist,available,14.99,,low,low,12,name.com,,,
+69ab4596-3e9c-43fc-b871-c3f120ce9382,timessquare.florist,available,14.99,,low,low,12,name.com,,,
 b3d6aab4-b109-46be-aa5d-0e212f460b7c,crisp.florist,available,14.99,46.99,medium,low,5,name.com,,,
 fc827825-7cf3-4ee3-8dd8-a893c5a65ae6,covert.florist,available,14.99,46.99,medium,low,6,name.com,,,
 29fcef9c-8d49-46bf-a980-404e29ae8efe,wording.florist,available,14.99,,high,low,7,name.com,,,
@@ -324,7 +324,7 @@ dd5ebb6f-a972-482e-af02-721f4a635243,wedge.florist,available,14.99,,medium,low,5
 916c7668-6ba9-4e8b-94ce-26a9ffb8131b,armenian.florist,available,14.99,46.99,low,low,8,name.com,,,06/08/2026 19:39
 c61cf809-994e-4d95-889e-a585092b32eb,overlook.florist,available,14.99,,high,low,8,name.com,,,
 c1352e36-9353-4784-ac4f-5d9354a720a6,speedlimit.florist,available,14.99,,medium,low,11,name.com,,,
-20646581-2702-4f32-ab1d-336e741a4214,StVincent.florist,available,14.99,,medium,low,11,name.com,,,
+20646581-2702-4f32-ab1d-336e741a4214,stvincent.florist,available,14.99,,medium,low,11,name.com,,,
 ccd30c77-893d-4174-af3a-4e5b20331aa8,anomic.florist,available,14.99,46.99,low,low,6,name.com,,,
 a53ab5f2-5c8c-4815-83d1-392502f70432,allopathic.florist,available,14.99,46.99,low,low,10,name.com,,,
 576c5f43-459e-44a5-8f84-eed1843611b6,acidreflux.florist,available,14.99,,medium,low,11,name.com,,,
@@ -333,7 +333,7 @@ a53ab5f2-5c8c-4815-83d1-392502f70432,allopathic.florist,available,14.99,46.99,lo
 467a6e8b-c167-4d5e-8166-fc43a17280dd,kiev.florist,premium,38.94,38.94,high,low,4,namesilo,,,
 bd90d47f-ebe8-413a-a1ea-8183cb0d04f6,themself.florist,available,14.99,,low,low,8,name.com,,,
 8c8c3fb0-83e1-4ca1-994d-857a91de2aa0,trivial.florist,available,14.99,,high,low,7,name.com,,,
-15fa1671-bbd3-4e33-b77c-961cad3911ab,Panasonic.florist,available,,,high,low,9,,,,
+15fa1671-bbd3-4e33-b77c-961cad3911ab,panasonic.florist,available,,,high,low,9,,,,
 c920ab18-6d0f-4251-a753-160a3e67904b,onemillion.florist,available,14.99,,low,low,11,name.com,,,
 c2ba1934-04c7-4b29-afa2-d37e28ad61b6,nice.florist,available,14.99,46.99,high,medium,4,name.com,,,
 71e32b87-d622-4851-aefd-48ee911005a0,tooneself.florist,available,14.99,,medium,low,10,name.com,,,
@@ -342,13 +342,13 @@ f7b43470-d6a7-4608-8b4a-08f3ecb15086,commonsense.florist,available,14.99,,high,l
 d2189ced-9f1a-4490-84ec-5c6c0312d5c4,robotlike.florist,available,14.99,46.99,low,low,9,name.com,,,07/08/2026 20:47
 52687052-d796-45dc-951c-701c192e567e,standto.florist,available,14.99,,low,low,8,name.com,,,
 80cdde34-c5bf-4482-9fcf-9af3a08023f0,political.florist,available,14.99,,high,low,9,name.com,,,
-ba01a266-d3ed-4534-b4c4-2c8d5f420a8c,YubaCity.florist,available,14.99,,low,low,9,name.com,,,
+ba01a266-d3ed-4534-b4c4-2c8d5f420a8c,yubacity.florist,available,14.99,,low,low,9,name.com,,,
 d7a9fa64-5db0-4154-a398-3e54dccfe3cb,anginose.florist,available,14.99,46.99,low,low,8,name.com,,,
 8ce43bb9-91d2-4203-9257-4d03c80cdefe,correlate.florist,available,14.99,46.99,high,low,9,name.com,,,
 db6a64ce-acdf-421d-9708-64a7d75a0291,making.florist,available,14.99,,high,low,6,name.com,,,
 4ec0e233-a0b1-4d69-bc52-d0dd03ba5cbe,antiblack.florist,available,14.99,46.99,low,low,9,name.com,,,
 b7820684-7636-47a2-bec6-70646a3c3915,lxxx.florist,available,14.99,46.99,low,low,4,name.com,,,
-27fda105-b628-46df-85be-fd960a15e944,snack.florist,available,31.98,41.98,medium,low,5,namecheap,,,08/09/2026 13:13
+27fda105-b628-46df-85be-fd960a15e944,snack.florist,available,32.99,32.99,medium,low,5,namesilo,,,19/09/2026 10:58
 95ff1d1a-1d54-4173-b3e4-0e6ef4e3a4ba,unemployment.florist,available,14.99,,low,low,12,name.com,,,
 706ca26a-4486-4806-9417-0226e1ddcd43,intheraw.florist,available,32.99,32.99,low,low,10,namesilo,,,16/09/2026 08:01
 35107aa9-68a5-4209-bd5a-4c8601e4bf0d,coalesced.florist,available,14.99,46.99,low,low,9,name.com,,,
@@ -371,7 +371,7 @@ a5e49be8-414b-4fb2-9252-b5beb8790abb,gaslighter.florist,available,14.99,,medium,
 0c5ef6c3-4306-4d9e-b836-17439f89b8cc,analgetic.florist,available,14.99,46.99,low,low,9,name.com,,,
 56674f03-1fd5-491a-a03d-b4eaabc9512e,after.florist,available,14.99,46.99,high,low,5,name.com,,,
 0eaa9135-d271-4445-920f-3783106fde6f,happy.florist,available,14.99,,high,medium,5,name.com,,,
-7d640766-debb-4e0d-b8f5-f221864d42e5,Jewnose.florist,available,14.99,,medium,low,8,name.com,,,
+7d640766-debb-4e0d-b8f5-f221864d42e5,jewnose.florist,available,14.99,,medium,low,8,name.com,,,
 fcd69dd9-b054-4c0f-9660-e55db8a60787,lxiv.florist,available,14.99,46.99,low,low,4,name.com,,,
 4075dfbb-2a88-4343-9e41-251c181dbc57,genuine.florist,available,14.99,46.99,high,low,7,name.com,,,
 0a3ed96c-4a01-46ca-bdf0-6f817ec3187d,potterabout.florist,available,14.99,,low,low,12,name.com,,,
@@ -390,7 +390,7 @@ e6d3a27d-23af-4f27-bc72-f4db569b09f7,devise.florist,available,14.99,,high,low,6,
 b2331e15-7f69-40f5-a30f-633ee1c6fbc6,breastbone.florist,available,14.99,,medium,low,11,name.com,,,
 0605a33d-6a8e-47a9-819e-a5bbaf4a92cc,manifest.florist,available,14.99,46.99,medium,medium,8,name.com,,,06/08/2026 05:17
 5af614eb-0378-4e43-bd47-8a9aff599dbf,afternoon.florist,available,14.99,,high,low,9,name.com,,,
-d648c46f-297d-4d20-bd5f-be28044b89c7,aided.florist,available,14.99,46.99,high,low,5,name.com,,,
+d648c46f-297d-4d20-bd5f-be28044b89c7,aided.florist,available,32.99,32.99,low,low,5,namesilo,,,19/09/2026 12:43
 428c0f0a-41c6-40fb-a73b-5848e5430396,abducent.florist,available,14.99,46.99,low,low,8,name.com,,,
 7c65941b-08eb-459c-831b-8b8e15a198a8,combative.florist,available,14.99,46.99,low,low,9,name.com,,,
 a980feaf-deb9-45b8-bdc7-83076f07db0f,amphibious.florist,available,14.99,46.99,low,low,10,name.com,,,
@@ -407,7 +407,7 @@ e7b37372-914c-4faa-aa70-7ece97a3df20,lucy.florist,available,14.99,,high,low,4,na
 8cea367f-22f1-465d-a265-ccc9dde75091,acicular.florist,available,14.99,46.99,low,low,8,name.com,,,
 6a39bff0-037f-4fef-b8b7-08a41c34d0b8,ascetic.florist,available,14.99,46.99,low,low,7,name.com,,,07/08/2026 00:56
 343bd2a8-71ef-44ec-90a8-db8152da96b7,beatout.florist,available,14.99,46.99,low,low,8,name.com,,,09/08/2026 05:17
-0277a764-2eef-47bf-ade3-21498bc58e50,Germanshepherd.florist,available,14.99,,high,low,15,name.com,,,
+0277a764-2eef-47bf-ade3-21498bc58e50,germanshepherd.florist,available,14.99,,high,low,15,name.com,,,
 1e4c5bc1-6fc2-422d-b42a-05e4a43ac785,anorectal.florist,available,31.98,41.98,low,low,9,namecheap,,,
 456ed09f-5d1c-4baa-9ee3-b8a0d0322716,abouttime.florist,available,14.99,,medium,low,10,name.com,,,
 24a2f078-43cb-426f-91c4-bda4c2a4b5df,jail.florist,available,14.99,,high,low,4,name.com,,,
@@ -418,7 +418,7 @@ e7b37372-914c-4faa-aa70-7ece97a3df20,lucy.florist,available,14.99,,high,low,4,na
 48a548ad-bd8e-4172-aac6-f8352b4243c3,educational.florist,available,14.99,,high,low,11,name.com,,,
 1af80059-bc33-483b-b1e2-af86ae21f92d,yearround.florist,available,14.99,,high,low,10,name.com,,,
 c0612a5f-665b-4379-9f97-39c4e04f3eed,stewart.florist,available,14.99,,medium,low,7,name.com,,,
-39168bc6-5c91-4d18-9cbc-139b4951ed9b,PubMed.florist,available,14.99,,high,low,6,name.com,,,
+39168bc6-5c91-4d18-9cbc-139b4951ed9b,pubmed.florist,available,14.99,,high,low,6,name.com,,,
 eaa58fe9-9c50-4267-900f-ad86100d6de3,chairperson.florist,available,14.99,,medium,low,11,name.com,,,
 bd917ae8-e00c-43cf-b9fb-f626832a7379,airheaded.florist,available,14.99,46.99,low,low,9,name.com,,,
 1c7beb43-1bef-4a3d-868c-781e008cedcb,flourishing.florist,available,14.99,,high,low,11,name.com,,,
@@ -434,7 +434,7 @@ c953307f-394b-4e51-9620-88f97ba2a3c9,roman.florist,available,14.99,,high,low,5,n
 ec3b5e54-4bc3-438b-98c1-94d7ab1d2881,bearinmind.florist,available,14.99,,high,low,12,name.com,,,
 02180019-7bb4-4501-ab1e-c7b3c83a7722,absent.florist,available,14.99,46.99,high,low,6,name.com,,,
 3a708ed9-6e00-490b-b4f6-551d540977c0,demand.florist,available,14.99,,high,low,6,name.com,,,
-5b610942-f579-4afc-9030-61fbb36bde11,screen.florist,available,14.99,,high,low,6,name.com,,,
+5b610942-f579-4afc-9030-61fbb36bde11,screen.florist,available,31.98,41.98,low,low,6,namecheap,,,19/09/2026 13:37
 379cf76b-569e-4a8c-aed9-68caaf8c1b55,activistic.florist,available,14.99,46.99,low,low,10,name.com,,,
 fa2ddfbb-d891-4d09-96e4-7623be7651f5,alittlebit.florist,available,14.99,,medium,low,12,name.com,,,
 6a59ac5d-d8bf-44ee-901b-cb821193a8b1,tentbed.florist,available,14.99,,high,low,8,name.com,,,
@@ -447,7 +447,7 @@ c97da0a2-d049-4d5b-bf20-79fad4e4e421,fuel.florist,available,14.99,,high,low,4,na
 6f737421-2627-4c24-9134-16ab4d14f7ee,newfound.florist,available,31.98,41.98,low,low,9,namecheap,,,08/09/2026 04:48
 fe348a0b-cbe8-4d22-a600-a9bfe9c69d8b,aliquot.florist,available,14.99,46.99,low,low,7,name.com,,,
 e334ca07-01bd-4191-bdd6-682d16519ec6,polyester.florist,available,14.99,,high,low,9,name.com,,,
-3718f27a-3c8a-48d5-9e09-f6104114dc57,Ihaveatemperature.florist,available,14.99,,medium,low,20,name.com,,,
+3718f27a-3c8a-48d5-9e09-f6104114dc57,ihaveatemperature.florist,available,14.99,,medium,low,20,name.com,,,
 9e018e2e-3d54-4b0d-aa13-3102f7ccc582,ametropic.florist,available,14.99,46.99,low,low,9,name.com,,,
 393efe43-eef5-43af-a99a-49ddde95920f,jointly.florist,available,14.99,,medium,low,7,name.com,,,
 a5df05c2-bbf3-4cfc-bc85-b1ad4c29f271,leap.florist,available,14.99,,high,low,4,name.com,,,
@@ -455,7 +455,7 @@ e0525f7a-76c7-404b-9858-e2f41a4024e6,stuffy.florist,available,14.99,46.99,low,lo
 bf353274-21fc-4689-9b49-1bfc4fb4949f,bakery.florist,available,14.99,,high,low,6,name.com,,,
 e67d85e3-5ca6-4be9-9028-d6e30c910004,major.florist,available,14.99,,high,low,5,name.com,,,
 aa75d797-c14f-494a-90fc-425bdb37e31d,goodbooks.florist,available,14.99,,high,low,10,name.com,,,
-ce2f88f5-bc84-40e8-9e34-5285b76be1b9,NewDelhi.florist,available,14.99,,medium,low,9,name.com,,,
+ce2f88f5-bc84-40e8-9e34-5285b76be1b9,newdelhi.florist,available,14.99,,medium,low,9,name.com,,,
 66023361-320e-4726-87f1-1ce78dbbf8e9,lend.florist,available,14.99,,high,low,4,name.com,,,
 bcdddf06-fe55-494c-9f36-19b284dbb45a,weeks.florist,available,14.99,,low,low,5,name.com,,,
 31c5ef3e-f343-44fb-8bfb-cf485f68af13,angle.florist,available,14.99,,high,low,5,name.com,,,
@@ -475,7 +475,6 @@ acd159d6-58b1-4271-a668-0c0c1df0f1e3,aborigine.florist,available,14.99,46.99,low
 754ce72a-dfb5-4750-9b7b-679c999025e6,wrestling.florist,available,14.99,,high,low,9,name.com,,,
 36d5add5-3f1a-458f-b25c-fe140e4c35b5,buddy.florist,available,14.99,,medium,low,5,name.com,,,
 c615493d-a9a6-4ba8-9109-11abfc6c326d,equivalent.florist,available,14.99,,high,low,10,name.com,,,
-3cac55b9-61f2-423a-825d-6c603d007296,canon.florist,available,,,high,low,5,,,,
 5308a6ca-9ce6-4783-80a2-4bfa6ac71304,bless.florist,available,14.99,,high,low,5,name.com,,,
 0a1d7d23-9343-43f1-8abd-25b1f7ec764a,sufficient.florist,available,14.99,,high,low,10,name.com,,,
 25eec1b8-ea9f-44e3-9dc4-0de919638193,whatthehell.florist,available,14.99,,low,low,13,name.com,,,
@@ -495,7 +494,7 @@ f16b2b99-27c7-4c7e-a95c-dde42e22a01c,absolutely.florist,available,14.99,,high,lo
 66277b9c-a868-4110-a521-bad68df92932,pertinent.florist,available,14.99,46.99,low,low,9,name.com,,,06/08/2026 07:59
 5bef9dff-47af-4923-939c-a00cdd0cff70,lager.florist,available,14.99,,high,low,5,name.com,,,
 4491ad1e-0d41-4204-b674-945da84abacb,commission.florist,available,14.99,,high,low,10,name.com,,,
-f28dde47-2aa5-4780-a1d0-0ef9fd28c40c,Gregorio.florist,available,14.99,,medium,low,8,name.com,,,
+f28dde47-2aa5-4780-a1d0-0ef9fd28c40c,gregorio.florist,available,14.99,,medium,low,8,name.com,,,
 0b112e00-dd1a-43ef-acef-38c812c94d67,bathetic.florist,available,14.99,46.99,low,low,8,name.com,,,09/08/2026 00:28
 3c909458-be44-49dc-ba55-5bb14b55a752,sharing.florist,available,14.99,,high,low,7,name.com,,,
 bfbc04f0-e10c-4c84-b403-b1f672a74969,foolish.florist,available,14.99,46.99,medium,low,7,name.com,,,
@@ -508,7 +507,7 @@ e708de42-59c9-4d2a-b672-7532091555b3,ailing.florist,available,14.99,46.99,low,lo
 00f6affe-211d-4f5a-989d-40b47d1aaa57,veggiedog.florist,available,14.99,,high,low,10,name.com,,,
 6261e23f-381c-4f64-b57c-80841da1fa5e,peeved.florist,available,14.99,46.99,low,low,6,name.com,,,
 6170f996-cf47-4f87-bac2-2b2a5c61993d,starred.florist,available,14.99,46.99,low,low,7,name.com,,,07/08/2026 08:52
-99d25092-96a0-4909-9105-2496c79d123b,DakotaCity.florist,available,14.99,,medium,low,11,name.com,,,
+99d25092-96a0-4909-9105-2496c79d123b,dakotacity.florist,available,14.99,,medium,low,11,name.com,,,
 15be94f4-c49e-45c2-8e1c-227ddc8c4700,existing.florist,available,14.99,,medium,low,8,name.com,,,
 6a9b85ee-1799-4f7b-8387-57c3c6b1c4b0,baccate.florist,available,14.99,46.99,low,low,7,name.com,,,08/08/2026 04:03
 70412f8a-c605-4176-b4ae-01fe8f730f02,warp.florist,available,14.99,,high,medium,4,name.com,,,
@@ -530,7 +529,7 @@ e0f555db-e31a-42f4-a132-1f97b3e7339a,dream.florist,available,14.99,,high,medium,
 c5c72d16-bf41-4850-b47d-26c5648e6a65,planetarium.florist,available,14.99,,medium,low,11,name.com,,,
 50a6f87e-26f0-471b-b7b4-62475123080a,inkind.florist,available,31.98,41.98,low,low,7,namecheap,,,15/09/2026 04:38
 5da2f547-6da5-4ee9-8481-bce54d650ab3,jay.florist,available,14.99,,medium,low,3,name.com,,,
-0331492c-e04e-4d09-9440-3ceacd734ea8,justice.florist,available,31.98,41.98,medium,low,7,namecheap,,,14/09/2026 03:52
+0331492c-e04e-4d09-9440-3ceacd734ea8,justice.florist,available,32.99,32.99,medium,low,7,namesilo,,,19/09/2026 10:07
 2dce95bb-4b1a-47ef-954c-e605f8bf801f,answering.florist,available,14.99,,high,low,9,name.com,,,
 09de4b35-d98e-4db9-b826-0b1694f54a46,proceed.florist,available,14.99,,high,low,7,name.com,,,
 de260feb-cb08-4987-a68b-58bc8c7c2131,selfless.florist,available,14.99,46.99,high,low,8,name.com,,,
@@ -545,14 +544,14 @@ fb050eb0-b4ee-4eca-adaf-756bd19413fa,wordis.florist,available,14.99,,low,low,7,n
 184885f3-7877-4e3e-9d8d-2e41848952b3,cincinnati.florist,premium,38.94,38.94,high,low,10,namesilo,,,
 5c699cca-0e5b-400d-8228-447f58fb56de,molecules.florist,available,14.99,,medium,low,9,name.com,,,
 8a2c44f2-525c-4e92-a02b-c0ad5f75a7d4,scarred.florist,available,14.99,,medium,low,7,name.com,,,
-a409dfbe-c4f5-4031-bec0-e6f805341f8c,noone.florist,available,14.99,,high,low,6,name.com,,,
-fae88ca0-ebfa-47ca-b9a2-6b4d9a1d247a,ISBN.florist,available,14.99,,high,low,4,name.com,,,
+a409dfbe-c4f5-4031-bec0-e6f805341f8c,noone.florist,available,32.99,32.99,low,low,6,namesilo,,,20/09/2026 00:54
+fae88ca0-ebfa-47ca-b9a2-6b4d9a1d247a,isbn.florist,available,14.99,,high,low,4,name.com,,,
 16cdd82b-1817-44b4-95eb-50c7747a11d0,bowout.florist,available,14.99,,high,low,7,name.com,,,
-143c2833-2623-4caa-8451-d9125f099abc,Irestmycase.florist,available,14.99,,medium,low,14,name.com,,,
+143c2833-2623-4caa-8451-d9125f099abc,irestmycase.florist,available,14.99,,medium,low,14,name.com,,,
 dde9a53a-f6e6-4006-970b-f3b1e087a169,banana.florist,available,14.99,,high,medium,6,name.com,,,
 9126edc0-8ada-40e0-b95b-ae808573d682,knowledgeable.florist,available,14.99,,high,low,13,name.com,,,
 592c19f8-849e-45bb-b504-85f6549aab2c,autotypic.florist,available,14.99,46.99,low,low,9,name.com,,,07/08/2026 21:18
-18556af3-bb75-4033-85e0-45b9dbcefa40,StrongCity.florist,available,14.99,,low,low,11,name.com,,,
+18556af3-bb75-4033-85e0-45b9dbcefa40,strongcity.florist,available,14.99,,low,low,11,name.com,,,
 60b7c4f8-ddaf-4709-9879-80b2782d172d,modelling.florist,available,14.99,,high,low,9,name.com,,,
 0999c3e0-5c4b-456e-8b09-cab93e4e3178,algometric.florist,available,14.99,46.99,low,low,10,name.com,,,
 31e9851f-0896-4196-bd84-582a5de76cde,whitepepper.florist,available,14.99,,low,low,12,name.com,,,
@@ -566,7 +565,7 @@ d8057e65-2c09-46a5-859b-89f113675e51,evening.florist,available,14.99,,high,low,7
 48bc698a-5470-4868-aa75-9c48cb79b0e5,short.florist,available,14.99,46.99,high,low,5,name.com,,,
 39b0b86d-352c-4132-8135-740bfee92fc4,response.florist,available,14.99,,high,low,8,name.com,,,
 bc5a60ae-a792-47dd-bb1f-e186baee5fb1,procrastinate.florist,available,14.99,,medium,low,13,name.com,,,
-59e26d17-c8bc-47d3-a265-5757c4f604f7,TBD.florist,available,14.99,,high,low,3,name.com,,,
+59e26d17-c8bc-47d3-a265-5757c4f604f7,tbd.florist,available,14.99,,high,low,3,name.com,,,
 86e64b41-bcae-422f-9b2f-35ee3eec141d,sickabed.florist,available,14.99,46.99,low,low,9,name.com,,,09/08/2026 07:12
 bf484fde-47f6-4db7-939b-d8dfc6d81d32,remember.florist,premium,118.8,118.8,high,low,8,namesilo,,,
 f0106c5d-7282-4322-a82e-c7a232522a7d,suspense.florist,available,14.99,,high,low,8,name.com,,,
@@ -596,7 +595,7 @@ d601e0b4-05e3-483f-8d19-18ff4b0d3e49,curiously.florist,available,14.99,,medium,l
 854c176a-ee2e-4c58-9e93-e49b3d14cf17,headtohead.florist,available,14.99,,medium,low,12,name.com,,,
 89786c8f-b3b8-4c97-8e4a-146fc1796fc6,lowdown.florist,available,14.99,46.99,low,low,8,name.com,,,
 a9111525-427b-4046-b58f-65d3c67ec2bc,niner.florist,available,14.99,46.99,low,low,5,name.com,,,
-864857e7-f57d-4425-bd8f-49a4083bfc3a,Schneider.florist,available,14.99,,medium,low,9,name.com,,,
+864857e7-f57d-4425-bd8f-49a4083bfc3a,schneider.florist,available,14.99,,medium,low,9,name.com,,,
 293c9d66-5470-4a76-975c-7a51076f4376,fantasy.florist,available,14.99,,high,low,7,name.com,,,
 736c65bb-9135-4e51-a3ff-307fde6e5de1,effectively.florist,available,14.99,,medium,low,11,name.com,,,
 324cc7fe-9dcd-473f-8406-cf67baf52419,gopublic.florist,available,14.99,,medium,low,9,name.com,,,
@@ -616,7 +615,7 @@ b17a7b10-6fbb-4bea-b1f6-d4c489b12528,anoestrous.florist,available,14.99,46.99,lo
 80db9453-2829-43a8-b429-9a64f7d6f3e3,joy.florist,premium,242,242,high,medium,3,namesilo,,,
 617b3487-3800-4383-b14c-d4ebe9b7715e,septenary.florist,available,14.99,46.99,low,low,9,name.com,,,
 fb346735-b335-4303-a448-da213931cd9d,initial.florist,available,14.99,,high,low,7,name.com,,,
-9c7fbfac-784f-4448-bd0f-8530d291ff80,art.florist,premium,85.8,85.8,high,medium,3,namecheap,,,
+9c7fbfac-784f-4448-bd0f-8530d291ff80,art.florist,premium,78.54,78.54,medium,low,3,namesilo,,,19/09/2026 05:34
 6189235d-8723-4a9d-82d4-ba3b8d81a865,seeingas.florist,available,14.99,,medium,low,9,name.com,,,
 7a42318a-9567-4371-9d5f-c50d58b9dae7,exist.florist,available,14.99,,high,low,5,name.com,,,
 fe52d695-786e-45b8-9278-ec7b07f8c55f,jerking.florist,available,14.99,46.99,low,low,7,name.com,,,06/08/2026 21:58
@@ -632,7 +631,7 @@ aa5aa40e-4d3e-4b98-ab74-c5de7dc9144e,times.florist,available,14.99,,high,low,5,n
 06dee07c-534b-4df9-9777-e9aec0598b48,holes.florist,available,14.99,,medium,low,5,name.com,,,
 d1b9c2f0-e44d-43f6-9cf8-e03574a8185c,scowling.florist,available,14.99,46.99,low,low,8,name.com,,,09/08/2026 08:33
 eb933a35-a19c-4bda-b161-7045621cb415,acrophobic.florist,available,14.99,46.99,low,low,10,name.com,,,
-d01d5a33-0626-42d1-acd0-fcc08664aa72,random.florist,available,31.98,41.98,medium,medium,6,namecheap,,,13/09/2026 03:09
+d01d5a33-0626-42d1-acd0-fcc08664aa72,random.florist,available,31.98,41.98,low,low,6,namecheap,,,19/09/2026 11:18
 72193272-6237-4454-908b-c8ad609539c2,represented.florist,available,14.99,,medium,low,11,name.com,,,
 41c69add-81b7-4d17-84ed-fd2b03ff2dc9,risen.florist,available,14.99,,medium,low,5,name.com,,,
 e09d8eab-9383-4e76-863f-0515bde5ad2b,apologetic.florist,available,14.99,46.99,low,low,10,name.com,,,06/08/2026 02:07
@@ -642,7 +641,6 @@ d15b60ee-8605-479e-9d45-048c820a854e,rattleabout.florist,available,14.99,,low,lo
 4f6540f5-f89c-45c0-961b-d8a41be814d0,boxoffice.florist,available,14.99,,high,low,10,name.com,,,
 f2b32c0a-8648-4eeb-a06b-4afbcbf2e967,capitalize.florist,available,14.99,,high,low,10,name.com,,,
 6f1b2c89-9ca7-457a-bc7e-34058df5fc2b,bethere.florist,available,14.99,,medium,low,8,name.com,,,
-0cfbd2e8-8c17-46d2-ac1c-f3cc5a85064c,line.florist,available,,,high,low,4,,,,
 31a8b0eb-6f5c-4f53-9e18-c2d4e59171b7,poverty.florist,available,14.99,,medium,low,7,name.com,,,
 4413d416-fdd5-4337-a88e-b26956d28ffa,algid.florist,available,14.99,46.99,low,low,5,name.com,,,
 a3bb2564-4cb5-4e0c-9195-ab2e59dc5388,coffeemaker.florist,available,14.99,,high,low,12,name.com,,,
@@ -675,7 +673,7 @@ b68df83c-6590-423b-8c23-9dc9731b7488,dying.florist,available,14.99,46.99,high,lo
 3615ee2c-7bc0-4563-acd9-014211d53c47,avionic.florist,available,14.99,46.99,low,low,7,name.com,,,07/08/2026 23:35
 c2a6a228-c10e-4653-b009-3eae29a3bc97,eve.florist,available,14.99,,high,medium,3,name.com,,,
 dd155e85-5f13-458b-a22c-5fd3fcd3b5b6,revolt.florist,available,14.99,,high,low,6,name.com,,,
-838d4aec-d79d-42f6-af2a-e43b587e8ea5,StudioCity.florist,available,14.99,,low,low,11,name.com,,,
+838d4aec-d79d-42f6-af2a-e43b587e8ea5,studiocity.florist,available,14.99,,low,low,11,name.com,,,
 f729388c-3f1c-43f1-81e7-5169b41caff9,attentive.florist,available,14.99,,medium,low,9,name.com,,,
 529a9d7a-5875-4959-af91-adc615c0157c,redplanet.florist,available,14.99,,medium,low,10,name.com,,,
 fe9d2dc0-bd1d-449d-a633-ad1819695f3e,frequently.florist,available,14.99,,medium,low,10,name.com,,,
@@ -717,7 +715,7 @@ f4ddf472-59a5-487b-8202-7e3f3a499029,whatabout.florist,available,14.99,,low,low,
 87781700-3670-473b-bcd8-ed293b5ebabe,looking.florist,available,14.99,,high,low,7,name.com,,,
 18b9f784-e275-41a6-9a82-5580fb528dbf,saw.florist,available,14.99,,high,low,3,name.com,,,
 1172aea7-6007-4018-b16c-fd0f3aba469e,cavitied.florist,available,14.99,46.99,low,low,8,name.com,,,
-a9a7387e-78a7-41d5-b92e-a98069e981d0,Olympicflame.florist,available,14.99,,high,low,13,name.com,,,
+a9a7387e-78a7-41d5-b92e-a98069e981d0,olympicflame.florist,available,14.99,,high,low,13,name.com,,,
 8fbb18b2-b00d-45f6-ba7a-09e5223023cb,starting.florist,available,14.99,,medium,low,8,name.com,,,
 431727a4-2af3-470a-b741-8066b3b5edad,mash.florist,available,14.99,,medium,low,4,name.com,,,
 8e306021-3dca-4178-89ee-b887e8cdf0d7,antitoxic.florist,available,14.99,46.99,low,low,9,name.com,,,05/08/2026 19:55
@@ -726,7 +724,7 @@ c62896b3-f6fc-4ba0-b035-32a235ea168d,point.florist,available,14.99,,high,low,5,n
 ee6ae363-db03-4b0b-8085-b0f496870a24,astonish.florist,available,14.99,,high,low,8,name.com,,,
 24fa366f-79db-45f5-8c2b-637faed34576,touchbase.florist,available,14.99,,medium,low,10,name.com,,,
 3c31d7cc-2b61-40bb-8133-6ec8e15d53f2,closeoff.florist,available,14.99,,high,low,9,name.com,,,
-37d6ab2b-093b-4e55-80a9-e9e3b220d117,MasterofArts.florist,available,14.99,,medium,low,14,name.com,,,
+37d6ab2b-093b-4e55-80a9-e9e3b220d117,masterofarts.florist,available,14.99,,medium,low,14,name.com,,,
 e2953c03-735f-4021-95b1-94ccc572704c,avellane.florist,available,14.99,46.99,low,low,8,name.com,,,07/08/2026 22:29
 1c3941e3-1365-4607-9624-e9f7f0b3873e,aegeansea.florist,available,14.99,46.99,low,low,10,name.com,,,
 cc53bdbf-9905-4f26-805f-1d6f2a0d357a,lviii.florist,available,14.99,46.99,low,low,5,name.com,,,
@@ -735,7 +733,7 @@ cc53bdbf-9905-4f26-805f-1d6f2a0d357a,lviii.florist,available,14.99,46.99,low,low
 ac1394c1-3308-490b-b672-223b5c9e0a97,uncommitted.florist,available,14.99,,medium,low,11,name.com,,,
 dc9f5370-af1f-48fe-8458-586b72215e18,allegro.florist,available,14.99,46.99,high,low,7,name.com,,,
 ae86d05b-53e4-4868-84c2-f46c2806ef5b,unused.florist,available,14.99,,medium,low,6,name.com,,,
-ef7343b1-e605-4a69-9cf6-55f2ec8f2245,Ilikepie.florist,available,14.99,,medium,low,10,name.com,,,
+ef7343b1-e605-4a69-9cf6-55f2ec8f2245,ilikepie.florist,available,14.99,,medium,low,10,name.com,,,
 daaf330d-80fa-486e-ad47-4354658ae590,wasted.florist,available,14.99,,medium,low,6,name.com,,,
 03a7e666-a782-4482-9355-f1dac01fa96a,artist.florist,available,14.99,,high,low,6,name.com,,,
 46145a32-41cb-404a-b89b-0b21e4012526,xoxoxo.florist,available,14.99,,high,low,6,name.com,,,
@@ -756,7 +754,7 @@ a5c266c3-5a7f-4a8a-beef-6471f5a874ad,zanzibar.florist,available,14.99,,medium,lo
 c3a8b49c-d20e-45fa-90cc-c56b30ef6512,respects.florist,available,14.99,,high,low,8,name.com,,,
 43815658-ef7e-4101-b428-a70dc7542c6a,cafeterrace.florist,available,14.99,,high,low,12,name.com,,,
 a713108d-c546-44c8-8eb8-50cd1b8c4b25,glitter.florist,available,14.99,,high,low,7,name.com,,,
-13eeb141-753c-4bcf-9846-d353b63f9976,USBdrive.florist,available,14.99,,high,low,9,name.com,,,
+13eeb141-753c-4bcf-9846-d353b63f9976,usbdrive.florist,available,14.99,,high,low,9,name.com,,,
 a9a49c8e-8e25-46f1-8785-a2384d4f17b3,bead.florist,available,14.99,,high,low,4,name.com,,,
 0354604a-ce33-4c0d-9980-972244b64693,blunt.florist,available,14.99,,medium,low,5,name.com,,,
 b0c39b17-ebde-4676-bad2-643efb04e4c0,step.florist,available,14.99,,high,low,4,name.com,,,
@@ -774,7 +772,7 @@ ac90c761-97a7-48ac-9c11-3939333e3d03,squirrel.florist,available,14.99,,high,low,
 e1840b40-a287-4ed8-a729-ea2484d14863,godmode.florist,available,14.99,,high,low,8,name.com,,,
 2728f45c-49b8-47fd-8b0c-36543f37a61c,actiongame.florist,available,14.99,,high,low,11,name.com,,,
 a7e08a07-2c16-484f-bb1f-ce88fc91e7a3,resounding.florist,available,14.99,,high,low,10,name.com,,,
-fa857613-988e-4337-b5af-45f0b29145eb,midFebruary.florist,available,14.99,,high,low,12,name.com,,,
+fa857613-988e-4337-b5af-45f0b29145eb,midfebruary.florist,available,14.99,,high,low,12,name.com,,,
 ebf3cb05-7d30-4090-a130-0686f972fd8d,finale.florist,available,14.99,,high,low,6,name.com,,,
 9eac35ee-aed0-48ad-b362-e42991e4923a,listenin.florist,available,14.99,,medium,low,9,name.com,,,
 92e7183b-3e6f-41ad-89f5-89c6e4d24f21,apt.florist,available,14.99,,high,low,3,name.com,,,
@@ -810,7 +808,7 @@ b3d412cf-9217-46c2-b2b3-42663245df2f,proactive.florist,available,14.99,,high,low
 2bc41cc6-ea36-4473-a3fd-9c3ef67845b0,jasmine.florist,premium,118.8,118.8,medium,low,7,namesilo,,,08/09/2026 14:04
 2f55ff8e-feae-48fa-86dd-6dcd376fa89a,lifelesson.florist,available,14.99,,high,low,11,name.com,,,
 bb7a9f06-7245-498b-a027-95f30c560b7e,masculine.florist,available,14.99,,high,low,9,name.com,,,
-c08ebacf-db98-4a7b-a19d-21b9f559fcd3,ADS.florist,available,14.99,,high,medium,3,name.com,,,
+c08ebacf-db98-4a7b-a19d-21b9f559fcd3,ads.florist,available,14.99,,high,medium,3,name.com,,,
 c22b3e4b-456e-400a-9c42-0e16c404cb69,thread.florist,available,14.99,,high,low,6,name.com,,,
 b77ae180-a75d-4281-8495-767380f8bb6b,inlovewith.florist,available,14.99,,medium,low,12,name.com,,,
 6ec79289-fa96-44a1-b88d-457e9ef2873d,justabout.florist,available,14.99,46.99,medium,low,10,name.com,,,
@@ -832,11 +830,11 @@ b8ea8f75-0501-46c1-ba32-303bdcadcf9f,developed.florist,available,14.99,46.99,hig
 40e9b440-007a-421f-8b8e-ccb1ac7909c6,increasing.florist,available,14.99,,high,low,10,name.com,,,
 3b0f4206-a457-4361-a435-5816e458455a,serialkiller.florist,available,14.99,,medium,low,13,name.com,,,
 fa1eb78c-39ff-4629-ae5b-513d36a1e627,none.florist,available,14.99,,high,low,4,name.com,,,
-4dd14fe5-de6b-45f0-9fcc-c7e47f01769e,Idoubtit.florist,available,14.99,,medium,low,10,name.com,,,
+4dd14fe5-de6b-45f0-9fcc-c7e47f01769e,idoubtit.florist,available,14.99,,medium,low,10,name.com,,,
 b0147c04-fc01-4bcf-a29e-a6d5e7a806ba,anticancer.florist,available,14.99,,high,low,10,name.com,,,
-d2901a39-2c9a-43bc-803c-9a43ae218c1e,Yukongold.florist,available,14.99,,medium,low,10,name.com,,,
+d2901a39-2c9a-43bc-803c-9a43ae218c1e,yukongold.florist,available,14.99,,medium,low,10,name.com,,,
 e19e9185-bde6-40ee-8984-2509e9e5b3bc,piss.florist,available,14.99,,high,low,4,name.com,,,
-2bdbf6c5-1e9b-41f7-a55c-6701bae87022,grandparent.florist,available,31.98,41.98,medium,low,11,namecheap,,,15/09/2026 07:07
+2bdbf6c5-1e9b-41f7-a55c-6701bae87022,grandparent.florist,available,32.99,32.99,medium,low,11,namesilo,,,19/09/2026 04:27
 7dc162d7-1c54-4fc8-853a-e60ca3ac36e3,yard.florist,available,14.99,46.99,high,low,4,name.com,,,
 fa50db56-5a01-40c1-8848-171f3bdb88c7,silent.florist,available,14.99,,high,low,6,name.com,,,
 b8b43455-0f4f-4d84-8c92-71988f80d079,armorial.florist,available,14.99,46.99,low,low,8,name.com,,,06/08/2026 20:15
@@ -845,7 +843,7 @@ e15e2e79-c3bc-4371-8566-015668df0371,asof.florist,available,14.99,,medium,low,5,
 6fd41aeb-1a4a-4d73-adb5-5e957da24405,atheist.florist,available,14.99,,high,low,7,name.com,,,
 01c0be5f-2b0a-449d-9e91-2a87447d9d51,barbarian.florist,available,14.99,46.99,low,low,9,name.com,,,08/08/2026 15:26
 883032cf-0172-4801-830f-13aa456e61ec,glassceiling.florist,available,14.99,,medium,low,13,name.com,,,
-24d6a64f-24d6-41ff-82d5-8ee8dcaa7c70,backup.florist,available,14.99,,high,low,6,name.com,,,
+24d6a64f-24d6-41ff-82d5-8ee8dcaa7c70,backup.florist,available,32.99,32.99,medium,low,6,namesilo,,,20/09/2026 03:14
 6c24539c-6410-445f-a309-59a263e67c7c,idiotic.florist,available,14.99,46.99,medium,low,7,name.com,,,
 24d552f6-6f0a-45b7-a817-7d3b2bd16a34,avenged.florist,available,14.99,46.99,low,low,7,name.com,,,07/08/2026 22:35
 f369645d-1ad2-466a-881d-3ce8b20c49dc,could.florist,available,14.99,,high,low,5,name.com,,,
@@ -869,7 +867,7 @@ b8f1148e-3b0c-42f1-9c21-d171cc56f32c,inverse.florist,available,14.99,,high,low,7
 4827c5d7-ba20-471f-b298-15d53423e243,invisible.florist,available,14.99,,high,low,9,name.com,,,
 9f261feb-b963-45d8-a1f2-20fcef41210d,marchon.florist,available,14.99,46.99,medium,low,8,name.com,,,
 9b535933-d6e1-41d5-94b9-b8066afed099,emergency.florist,available,14.99,,medium,low,9,name.com,,,
-9d97e4cc-e4b4-4dca-b56c-2d6e49e7f63a,TexasCity.florist,available,14.99,,low,low,10,name.com,,,
+9d97e4cc-e4b4-4dca-b56c-2d6e49e7f63a,texascity.florist,available,14.99,,low,low,10,name.com,,,
 f8d411a9-8d33-47c7-a2d6-2f64cb35dfa6,super.florist,premium,500,500,medium,medium,5,name.com,,,
 4b977e0b-aad4-472d-b95f-420cd58882e3,solo.florist,available,,,high,low,4,,,,
 9b3fa098-3f24-4448-91f7-e166d1bcfa2b,lots.florist,available,14.99,,high,low,4,name.com,,,
@@ -902,7 +900,7 @@ adf66a45-53dd-41ab-a011-4b45ef4a37cd,flu.florist,available,14.99,,medium,low,3,n
 ecaf1eba-4a71-424e-a0c7-0b57d3a44532,crowd.florist,available,14.99,,high,low,5,name.com,,,
 d23e6c58-bd54-470f-a9bb-6b63e686b8a0,incompatible.florist,available,14.99,,high,low,12,name.com,,,
 b9f3267c-3085-4fe0-85d1-eb2859e62166,butthenagain.florist,available,14.99,,medium,low,14,name.com,,,
-20b931bd-2d9b-4a29-8a6d-714dcf8402ad,GoodFriday.florist,available,14.99,,medium,low,11,name.com,,,
+20b931bd-2d9b-4a29-8a6d-714dcf8402ad,goodfriday.florist,available,14.99,,medium,low,11,name.com,,,
 57925a0e-a3cf-4589-ada9-b79b242c0a76,ninetytwo.florist,available,14.99,46.99,low,low,10,name.com,,,
 937f0aa0-4448-401c-bba7-7ea44b3aa855,barren.florist,available,14.99,46.99,low,low,6,name.com,,,08/08/2026 20:57
 c2ede417-30f4-4205-bdcd-904b8aa40fe3,fallen.florist,available,14.99,,high,low,6,name.com,,,
@@ -912,12 +910,12 @@ c2ede417-30f4-4205-bdcd-904b8aa40fe3,fallen.florist,available,14.99,,high,low,6,
 aa616695-46f2-4079-8948-d3e73acfdf67,sextet.florist,available,14.99,46.99,low,low,6,name.com,,,
 b0f3d79e-b0da-4cb4-b685-8978287b5546,aftuh.florist,available,14.99,,medium,low,5,name.com,,,
 f5a3eb03-7aee-4e77-98fa-e99c047e6435,howyousay.florist,available,14.99,,medium,low,11,name.com,,,
-56c73507-18f5-4621-a330-30fd880c676d,MacBook.florist,available,,,high,low,7,,,,
+56c73507-18f5-4621-a330-30fd880c676d,macbook.florist,available,,,high,low,7,,,,
 8c2a20b5-1c68-4463-bb01-1e1dea51644e,ttyl.florist,available,14.99,,low,low,4,name.com,,,
 c55480b3-cd15-4ee0-85c0-97b2ba06d1ed,guard.florist,available,14.99,,medium,low,5,name.com,,,
 0dbd9999-1fc5-4f4f-8a25-c2a61059606e,spectral.florist,available,14.99,46.99,low,low,8,name.com,,,06/08/2026 05:38
 ae372251-5e3b-45c7-8bfa-8a59cca070d8,cappuccino.florist,available,14.99,,high,low,10,name.com,,,
-7b01a101-cce2-472e-b0ed-da71d9a4dcf6,LaurelandHardy.florist,available,14.99,,medium,low,16,name.com,,,
+7b01a101-cce2-472e-b0ed-da71d9a4dcf6,laurelandhardy.florist,available,14.99,,medium,low,16,name.com,,,
 9f56b355-9922-41d8-bbdb-26b41d0538ce,district.florist,available,14.99,,medium,low,8,name.com,,,
 73363dbe-de39-4079-ad17-59ee146cbd5d,ive.florist,available,14.99,,medium,low,3,name.com,,,
 63559e96-6b14-4664-bf51-ef84031363c9,amok.florist,available,14.99,46.99,low,low,4,name.com,,,
@@ -941,7 +939,7 @@ dcf1f1f5-269a-4eb7-9289-1a9adbae4dad,usually.florist,available,14.99,,high,low,7
 4bfbc0d1-05bd-4142-8553-8f2e3895af8e,whitesauce.florist,available,14.99,,low,low,11,name.com,,,
 0f5ea45d-8755-4726-a60b-0822d116a7f0,seaside.florist,available,14.99,,high,low,7,name.com,,,
 2a46d345-1eb5-49c4-93c2-98405e9d4551,alchemical.florist,available,14.99,46.99,low,low,10,name.com,,,
-d3ff8a20-d520-4369-8cd4-23ea587bb13e,Laura.florist,premium,78.54,78.54,high,low,5,namesilo,,,
+d3ff8a20-d520-4369-8cd4-23ea587bb13e,laura.florist,premium,78.54,78.54,high,low,5,namesilo,,,
 611411e7-31c0-4055-88cc-77af7f763de7,curse.florist,available,14.99,46.99,high,low,5,name.com,,,
 6437ab1d-9f7c-4af8-81d6-479bd6ba1a00,indian.florist,available,14.99,,high,low,6,name.com,,,
 9b69d432-9b17-4cfd-a28f-853d9396e95c,bucket.florist,available,14.99,,medium,low,6,name.com,,,
@@ -952,7 +950,7 @@ b674fcc8-054c-4076-aa95-0ed88efff322,need.florist,available,14.99,,high,low,4,na
 d01d4fa1-89cf-4314-af37-a5267cfbe327,andorran.florist,available,14.99,46.99,low,low,8,name.com,,,
 7853fa57-3526-4d90-af8a-3234411c9724,amethyst.florist,available,14.99,,medium,low,8,name.com,,,
 37f2e0f4-0bc6-4f2d-ac8e-e175c7b52358,aslongas.florist,available,14.99,,medium,low,10,name.com,,,
-3eb0e1f4-def0-48f3-931f-4c4aed3cd730,Czechoslovakia.florist,available,14.99,,medium,low,14,name.com,,,
+3eb0e1f4-def0-48f3-931f-4c4aed3cd730,czechoslovakia.florist,available,14.99,,medium,low,14,name.com,,,
 fd50735a-48e8-4018-a21b-e6faeec0961d,dealtout.florist,available,14.99,46.99,low,low,9,name.com,,,06/08/2026 07:27
 4fc7dea6-e91f-4e3e-a48a-a9b280720a89,linkup.florist,available,14.99,46.99,low,low,7,name.com,,,07/08/2026 07:13
 cce5bbb9-0977-4243-8334-b3e29ed7145c,ticketwindow.florist,available,14.99,,medium,low,13,name.com,,,
@@ -986,7 +984,7 @@ b3899ce9-727c-4a08-9619-9c4b23a6d8a9,citylights.florist,available,14.99,,medium,
 66bd07d9-e30c-4c48-9a78-43d6767f85c5,antecedent.florist,available,14.99,46.99,low,low,10,name.com,,,
 e561a4cb-faa9-4161-a096-5f7417274b62,rejected.florist,available,14.99,,medium,low,8,name.com,,,
 8521e519-fee0-4fc8-937e-a5f564a6dba0,passengerseat.florist,available,14.99,,high,low,14,name.com,,,
-2418937a-f60b-4f0d-a916-f43233cc30db,Fingers.florist,available,14.99,,medium,low,7,name.com,,,
+2418937a-f60b-4f0d-a916-f43233cc30db,fingers.florist,available,14.99,,medium,low,7,name.com,,,
 bcc1ff44-5f5f-4712-a408-d6128d77dc51,keepup.florist,available,14.99,,high,low,7,name.com,,,
 1e93cd80-eb4e-40c9-8dc9-f425c1aa8cae,slip.florist,available,14.99,,high,low,4,name.com,,,
 87fcda3c-606f-4599-b2e1-8a9618076e28,indespiteof.florist,available,14.99,,medium,low,13,name.com,,,
@@ -999,3 +997,5 @@ d9fd2451-17f7-41b5-a4ac-a8d92354575d,modern.florist,available,14.99,,high,low,6,
 eabeee4e-d511-4479-86df-a1c7d551bfb7,adjective.florist,available,14.99,46.99,low,low,9,name.com,,,
 ffc09924-f635-45e0-8be9-648bf2c0dd64,scene.florist,available,14.99,,high,low,5,name.com,,,
 666326e6-d599-418c-b25d-f0976a674ccc,springshower.florist,available,14.99,,low,low,13,name.com,,,
+b8042d1b-2972-46a2-ae06-cdb3d965da03,nana.florist,available,14.99,,high,low,4,name.com,,,
+853ad5c0-de4e-4202-9637-7967f375b000,xcl.florist,available,14.99,46.99,low,low,3,name.com,,,
