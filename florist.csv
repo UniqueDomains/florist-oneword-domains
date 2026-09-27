@@ -4,7 +4,7 @@ ff9f7f9d-237e-40ae-95fa-84a1d4b2eab2,repulsive.florist,available,14.99,46.99,med
 2cf73a32-cf6a-4710-8cf8-7469c8ae79c8,beguiling.florist,available,32.99,32.99,high,low,9,namesilo,,,22/09/2026 01:38
 4aaaf583-57eb-4f19-b992-dae281120db0,peaking.florist,available,14.99,,high,low,7,name.com,,,
 4783d6e3-b6fc-4bab-a9de-4d5b7e1bce88,overfull.florist,available,14.99,46.99,medium,low,8,name.com,,,20/08/2026 15:31
-fdac97ab-b683-49be-82a8-c8c1623a5f3f,society.florist,available,14.99,,high,low,7,name.com,,,
+fdac97ab-b683-49be-82a8-c8c1623a5f3f,society.florist,available,31.98,41.98,high,low,7,namecheap,,,27/09/2026 06:58
 15a87406-26f1-48b6-b2a4-b0c04fd296fc,incipient.florist,available,14.99,46.99,medium,low,9,name.com,,,22/08/2026 01:14
 36c8f0d3-c700-4e7f-9a7c-a2c263de3fb8,dataflow.florist,available,31.98,41.98,high,low,9,namecheap,,,04/09/2026 04:48
 03a3009d-1495-46db-b4d5-876d5b12ebdd,gaslit.florist,available,32.99,32.99,medium,low,6,namesilo,,,17/09/2026 16:25
@@ -48,7 +48,7 @@ cc34bc12-c21b-4a12-9387-c51702afa6a5,alliance.florist,available,32.99,32.99,high
 7a1d88d8-f48e-4ce7-aeb9-ef60a7273f32,eruption.florist,available,32.99,32.99,high,low,8,namesilo,,,24/09/2026 15:18
 7f8a01b0-2264-4cff-adc1-6e9d46901d14,upstairs.florist,available,14.99,,high,low,8,name.com,,,
 7de3fac4-d80c-41b3-b21b-76f95dd58521,macho.florist,available,14.99,46.99,high,low,5,name.com,,,11/08/2026 11:31
-e8c1eece-1fe2-42be-b660-e1102d0df367,private.florist,available,14.99,,high,low,7,name.com,,,
+e8c1eece-1fe2-42be-b660-e1102d0df367,private.florist,available,32.99,32.99,high,medium,7,namesilo,,,27/09/2026 06:15
 7a1cfde5-c31e-4421-92be-989e9db27185,barque.florist,available,32.99,32.99,high,low,6,namesilo,,,22/09/2026 07:48
 1047c6dc-bd87-4485-b947-88eaae380908,plodding.florist,available,31.98,41.98,medium,low,8,namecheap,,,08/09/2026 21:17
 ce5c8871-eab0-4ac2-9297-356442f3df12,lp.florist,premium,78.54,78.54,high,low,3,namesilo,,,
@@ -77,7 +77,8 @@ e68302cb-3881-4387-9462-47d9f0762ba5,suitable.florist,available,14.99,,high,low,
 8fd1a3f8-98cc-4c8d-85b6-3ccc55db3add,convolute.florist,available,14.99,46.99,medium,low,9,name.com,,,12/08/2026 23:57
 cd09db76-b132-4137-b1fc-78d6b9e4d276,malian.florist,available,14.99,46.99,high,low,6,name.com,,,24/08/2026 14:00
 bdd32512-ffac-4ee0-bab5-7384560dd779,morgue.florist,available,14.99,46.99,medium,low,6,name.com,,,25/08/2026 06:42
-b99c1704-8f45-4b98-a455-3332b8bdca16,thug.florist,available,14.99,,high,low,4,name.com,,,
+9ba6af9b-076a-4b54-81f1-8dd35b8d88b7,acted.florist,available,32.99,32.99,medium,low,5,namesilo,,,27/09/2026 02:34
+b99c1704-8f45-4b98-a455-3332b8bdca16,thug.florist,available,32.99,32.99,high,low,4,namesilo,,,27/09/2026 08:15
 139871c8-9d30-4378-9f9a-497f188fd8a3,angularity.florist,available,32.99,32.99,medium,low,10,namesilo,,,19/09/2026 07:43
 8fb4857d-7626-45f6-8422-4a0af935db84,pectoral.florist,available,31.98,41.98,high,low,8,namecheap,,,08/09/2026 11:58
 8d34fbd5-2c4d-42f3-ac4b-68e1e59af8a8,squealer.florist,available,32.99,32.99,medium,low,8,namesilo,,,23/09/2026 11:32
@@ -139,7 +140,7 @@ aa8ea6f5-b77a-4512-9eb6-af9fe7f5c65d,brash.florist,available,14.99,46.99,medium,
 0b8b4f93-d54c-496c-b785-55b23b958a4b,hugely.florist,available,31.98,41.98,medium,low,6,namecheap,,,14/09/2026 15:49
 25c0d76e-3d71-4024-939a-30600048bef5,multiply.florist,available,31.98,41.98,high,low,8,namecheap,,,15/09/2026 15:37
 aa616695-46f2-4079-8948-d3e73acfdf67,sextet.florist,available,14.99,46.99,high,low,6,name.com,,,
-6d932c69-1ee2-44cd-8697-7e14f998a871,repeated.florist,available,14.99,,high,low,8,name.com,,,
+6d932c69-1ee2-44cd-8697-7e14f998a871,repeated.florist,available,32.99,32.99,high,low,8,namesilo,,,27/09/2026 11:04
 399c7d7a-90af-4b60-939d-fb71e01ad40a,connatural.florist,available,14.99,46.99,medium,low,10,name.com,,,12/08/2026 22:18
 d105d360-e9f7-48a6-b394-fc901f68bc36,kathleen.florist,premium,78.54,78.54,high,low,8,namesilo,,,25/09/2026 14:34
 17e20135-513f-4865-b341-73005bd3614c,delirious.florist,available,14.99,46.99,medium,low,9,name.com,,,14/08/2026 00:44
@@ -170,8 +171,9 @@ a61adb1a-fcb5-4c1d-b8dd-64fb93adb6fc,impression.florist,available,14.99,,high,lo
 8ed1dbef-b5d0-4efa-a03d-048c3ce86872,cathouse.florist,available,31.98,41.98,medium,low,8,namecheap,,,21/09/2026 18:24
 233b4bbd-91c5-4fa1-9142-ea2bf804ede0,waited.florist,available,32.99,32.99,medium,low,6,namesilo,,,18/09/2026 01:45
 4848ef67-51c1-48dc-a5f0-d80606f76272,hieratic.florist,available,14.99,46.99,medium,low,8,name.com,,,21/08/2026 08:24
+ddaf1bfb-2c82-4ec7-a2ed-858548e0af76,como.florist,available,31.98,41.98,high,low,4,namecheap,,,27/09/2026 07:01
 58f0a3e7-ad61-404e-b8b5-1f46dfa48c1b,androgen.florist,available,32.99,32.99,medium,low,8,namesilo,,,19/09/2026 04:53
-8892b91d-36b9-4a44-b9b4-1e28b33b1fdd,quiz.florist,available,32.99,32.99,high,low,4,namesilo,,,23/09/2026 06:25
+8892b91d-36b9-4a44-b9b4-1e28b33b1fdd,quiz.florist,available,32.99,32.99,high,low,4,namesilo,,,27/09/2026 02:23
 70d0ba0b-b94c-4ed3-afe6-a196eebbe69f,filipino.florist,available,14.99,46.99,high,low,8,name.com,,,18/08/2026 04:19
 85179ad8-56a5-453b-bbca-e55aa9f3b889,uppity.florist,available,31.98,41.98,medium,low,6,namecheap,,,12/09/2026 23:17
 daa722d9-a535-4aef-9760-dc39da0dceaf,bacterial.florist,available,14.99,46.99,high,low,9,name.com,,,22/09/2026 16:00
@@ -182,6 +184,7 @@ e468417b-f75d-4c3c-b94c-115a6529510f,sirens.florist,available,31.98,41.98,medium
 65f9bccc-2a3a-44af-a25b-bb2447bb78a0,exotic.florist,premium,123.75,123.75,high,low,6,name.com,,,17/08/2026 17:49
 3adec8fb-2208-4078-b765-3df0df0bd2db,solved.florist,available,31.98,41.98,high,low,6,namecheap,,,10/09/2026 13:46
 b4b93678-f69e-41e1-b015-9b1bb6f869dc,coddle.florist,available,32.99,32.99,high,low,6,namesilo,,,21/09/2026 13:03
+c6c4d652-44d3-48c8-a557-41ed72719413,hassan.florist,available,32.99,32.99,high,low,6,namesilo,,,27/09/2026 07:26
 5e8299f5-e321-49f3-993d-b57e5f5bf881,reasons.florist,available,31.98,41.98,medium,low,7,namecheap,,,25/09/2026 20:13
 75e37cac-22d0-4ec3-bffc-37e2763370da,brachial.florist,available,14.99,46.99,medium,low,8,name.com,,,11/08/2026 00:19
 6199f45a-4653-44af-a28e-a1a8f3a9531e,foothold.florist,available,31.98,41.98,high,low,8,namecheap,,,24/09/2026 10:16
@@ -193,6 +196,7 @@ ec238daa-63cb-4fff-8a1c-9ce25d31dfe7,flush.florist,available,14.99,46.99,high,lo
 0824390b-898f-4f68-85cf-40c2e58d8fb9,affine.florist,available,14.99,46.99,high,low,6,name.com,,,
 60fb372e-4c43-4595-a13f-6c187fa33080,winter.florist,available,32.99,32.99,high,low,6,namesilo,,,25/09/2026 11:04
 2eacbb0b-c2b0-4ea7-ac81-de5f56b7047b,adviseable.florist,available,14.99,,high,low,10,name.com,,,
+b78d884f-bf49-4a2e-a6a7-19a521031af8,raf.florist,available,32.99,32.99,high,low,3,namesilo,,,27/09/2026 05:07
 55305ffa-c04a-4db7-8bf1-ceaae5d7d55d,sported.florist,available,32.99,32.99,medium,low,7,namesilo,,,20/09/2026 16:50
 332c28b9-337f-4bb4-98cd-01b0308ece6b,spiky.florist,available,14.99,46.99,medium,low,5,name.com,,,08/09/2026 11:12
 171f9554-50ae-4c1b-9bb1-a68ac8ae4e8a,unopposed.florist,available,31.98,41.98,medium,low,9,namecheap,,,12/09/2026 16:16
@@ -313,7 +317,7 @@ a85ff8a8-81a0-4dab-97f4-f74706b27e71,acetylene.florist,available,32.99,32.99,med
 5e1747fe-63a0-4061-8d6f-021173c51b12,unpowered.florist,available,31.98,41.98,medium,low,9,namecheap,,,12/09/2026 17:18
 b351083e-0c80-41d0-9398-2e3c2a3b0d9f,stick.florist,available,14.99,,high,low,5,name.com,,,
 b8f0ca52-93b6-4cc3-8e3c-bc5437ae236d,colored.florist,available,31.98,41.98,high,low,7,namecheap,,,22/09/2026 20:23
-78205c89-4400-4fc0-91a7-e6ef3a2aa881,protected.florist,available,14.99,,high,low,9,name.com,,,
+78205c89-4400-4fc0-91a7-e6ef3a2aa881,protected.florist,available,32.99,32.99,high,low,9,namesilo,,,27/09/2026 07:42
 7d40dac3-f324-45df-ba3f-46dd9ea693f3,unanimous.florist,available,14.99,46.99,high,low,9,name.com,,,12/08/2026 22:33
 77f77b91-eb9a-45d0-9a3f-e75cb0446ab6,oar.florist,available,14.99,,high,low,3,name.com,,,
 d2e7f8a2-901d-480f-b793-5b2ceb131621,animism.florist,available,32.99,32.99,medium,low,7,namesilo,,,19/09/2026 09:19
@@ -327,6 +331,7 @@ f09086ac-f5d9-4c04-a61e-6933ed3e4177,reciprocal.florist,available,31.98,41.98,hi
 4130d3c6-8a01-408e-98d5-68386081334f,seraphical.florist,available,31.98,41.98,medium,low,10,namecheap,,,10/09/2026 04:31
 9386cdbc-4529-4a17-8041-790cfc205598,thankful.florist,available,32.99,32.99,high,low,8,namesilo,,,24/09/2026 22:54
 c450c57d-dc42-48b6-b8ac-be9cd7790df1,sumbody.florist,available,14.99,,low,low,7,name.com,,,
+05e0e2d7-11ae-4c28-a5ca-f17bf2e589fa,reminds.florist,available,32.99,32.99,medium,low,7,namesilo,,,27/09/2026 03:09
 cd2aa88c-2560-45e8-8529-b111afb61d20,stabilization.florist,available,31.98,41.98,medium,low,13,namecheap,,,17/09/2026 17:23
 dacfd1bb-4d74-48e1-83f0-a8875a818823,theft.florist,available,31.98,41.98,high,low,5,namecheap,,,08/09/2026 07:55
 94fa6087-12ad-4fd9-8b0f-169589c7d17b,idiom.florist,available,14.99,,high,low,5,name.com,,,
@@ -368,6 +373,7 @@ c0ea13cc-50cd-4c1a-b166-07ee6e671fe2,armchair.florist,available,32.99,32.99,high
 62307433-809d-481f-b233-dadbe0ad7d96,gregarious.florist,available,14.99,46.99,high,low,10,name.com,,,20/08/2026 19:56
 8bdd6d16-ad26-4c56-b5d0-516ed0b8d85f,dodgy.florist,available,14.99,46.99,medium,low,5,name.com,,,12/08/2026 01:46
 80e64339-5ddd-4283-918f-a280994189ee,all.florist,premium,118.8,118.8,high,medium,3,namesilo,,,22/09/2026 00:25
+e343e566-e255-40c2-b38e-78351c371d0e,prefer.florist,available,32.99,32.99,high,low,6,namesilo,,,27/09/2026 03:54
 c6fa1a1f-d754-4d26-8dcb-29ed91f8271c,provider.florist,available,14.99,,high,low,8,name.com,,,
 69754231-c78d-4f88-b3bf-104212be071d,meaning.florist,available,31.98,41.98,high,low,7,namecheap,,,25/09/2026 18:26
 fa82a6af-da55-4cbd-87e2-cb9af4516eb8,abyssinian.florist,available,31.98,41.98,high,low,10,namecheap,,,16/09/2026 19:54
@@ -375,6 +381,7 @@ fa82a6af-da55-4cbd-87e2-cb9af4516eb8,abyssinian.florist,available,31.98,41.98,hi
 5d460ec9-b514-4302-83db-4fefce915a81,neat.florist,available,31.98,41.98,high,low,4,namecheap,,,22/09/2026 16:59
 6658d907-6055-457c-a1f9-cb1b70dd2871,sugared.florist,available,31.98,41.98,medium,low,7,namecheap,,,11/09/2026 01:16
 4e558120-c036-4d42-b732-e9d5169695e9,purchase.florist,premium,118.8,118.8,high,low,8,namesilo,,,
+96c7c66f-6368-4b62-b8e3-84e8ad13dd3b,scientists.florist,available,32.99,32.99,medium,low,10,namesilo,,,27/09/2026 11:19
 3318b020-2e29-451a-a0ba-c6d5921d8bb8,payments.florist,available,32.99,32.99,high,low,8,namesilo,,,18/09/2026 16:44
 edabfad3-d827-4a77-8e3f-4ba1a6079573,basset.florist,available,31.98,41.98,medium,low,6,namecheap,,,22/09/2026 12:10
 d5a9f854-249c-4b54-ac7a-fb3364d55839,vibrant.florist,available,31.98,41.98,high,low,7,namecheap,,,13/09/2026 05:05
@@ -420,7 +427,7 @@ aedae8b4-d72d-4909-9e4c-d6ee6afe561a,fuckster.florist,available,14.99,,medium,lo
 66519b71-7b6c-4ec5-a923-ce0c0fd26990,antiquark.florist,available,32.99,32.99,medium,low,9,namesilo,,,19/09/2026 15:02
 53d5a2fc-5b63-4476-b8d9-693d9961003f,lawrencium.florist,available,31.98,41.98,medium,low,10,namecheap,,,20/09/2026 22:00
 9056f1cd-34e5-49b3-95f8-b107cd1dcf0e,boned.florist,available,14.99,46.99,high,low,5,name.com,,,10/08/2026 18:34
-06386097-7178-41b9-aae9-8f0124f92965,multiple.florist,available,31.98,41.98,high,low,8,namecheap,,,25/09/2026 22:06
+06386097-7178-41b9-aae9-8f0124f92965,multiple.florist,available,32.99,32.99,high,low,8,namesilo,,,27/09/2026 06:39
 0ef5e2b6-c537-4dff-ac45-439b77174a3f,resurgent.florist,available,31.98,41.98,high,low,9,namecheap,,,09/09/2026 13:53
 922edbbf-d770-4f2e-9c17-ad9d1db68aa3,albescent.florist,available,14.99,46.99,medium,low,9,name.com,,,
 cc947b42-faca-48b2-a951-c1f381a72487,senseless.florist,available,31.98,41.98,medium,low,9,namecheap,,,03/09/2026 17:48
@@ -434,6 +441,7 @@ fa63f2a5-561d-4958-b34a-da6ffa519658,bentonite.florist,available,32.99,32.99,hig
 b5972cc2-6051-4f5e-8f6c-2e5321168ace,oleaceous.florist,available,31.98,41.98,medium,low,9,namecheap,,,04/09/2026 02:06
 c3d5f37b-b923-4ea6-908a-1085e7ea9d1c,rag.florist,available,32.99,32.99,high,low,3,namesilo,,,24/09/2026 12:22
 7f1925e1-5779-45bd-9364-34ca5d5b5848,ovarian.florist,available,14.99,46.99,medium,low,7,name.com,,,04/09/2026 19:55
+c6427c0c-881f-4312-b54d-8ed0c26b9171,carmen.florist,premium,42.9,42.9,high,low,6,namecheap,,,27/09/2026 01:37
 108fc9cd-9826-418b-b3b4-dadab3eaceb7,recognized.florist,available,32.99,32.99,high,low,10,namesilo,,,21/09/2026 15:28
 ec2b4cf7-f34f-481c-85eb-abe471042650,nineteen.florist,available,31.98,41.98,high,low,8,namecheap,,,21/09/2026 12:05
 99d577f8-4748-4fb7-878d-569585500c85,luckily.florist,available,31.98,41.98,high,low,7,namecheap,,,13/09/2026 21:22
@@ -441,6 +449,7 @@ cd7a5ab3-92c8-448a-8201-644c6fd38ea2,apoplexy.florist,available,31.98,41.98,medi
 959e9882-c44e-49bb-9a99-ad54f3a360c2,brace.florist,available,14.99,46.99,high,low,5,name.com,,,11/08/2026 00:41
 b2050760-cc7a-4b33-b57b-48a0f75850b4,outline.florist,available,31.98,41.98,high,low,7,namecheap,,,24/09/2026 23:45
 e6fe72f6-79c3-4019-b1dc-66a9e2a5de52,pills.florist,available,32.99,32.99,medium,low,5,namesilo,,,20/09/2026 04:26
+7360c276-561c-43c6-976d-6852d5115bbe,judd.florist,available,32.99,32.99,medium,low,4,namesilo,,,27/09/2026 07:52
 98a8c72f-8e3e-4f73-9059-09d3f220acaf,unpunished.florist,available,31.98,41.98,medium,low,10,namecheap,,,12/09/2026 17:37
 b724abdb-be27-4fb8-bbc9-434899a12367,buggery.florist,available,31.98,41.98,medium,low,7,namecheap,,,19/09/2026 01:35
 b773f9d3-f106-43e1-8213-4a469d8a2f1f,sang.florist,available,31.98,41.98,high,low,4,namecheap,,,18/09/2026 20:03
@@ -469,13 +478,14 @@ eb1dc96c-7d57-48fb-b6ab-bbe076a09c98,unfixed.florist,available,31.98,41.98,mediu
 2bb47e57-498d-4051-8c92-585088fb9f9e,sterilised.florist,available,31.98,41.98,medium,low,10,namecheap,,,10/09/2026 20:13
 b0b60793-769c-49c2-996a-1dc36d03acdf,minatory.florist,available,14.99,46.99,low,low,8,name.com,,,24/08/2026 19:58
 257a0a5a-05d9-4e7d-a9c8-b9de71ebaccc,use.florist,available,14.99,,high,low,3,name.com,,,
-b8af3636-7409-4a8c-9350-294178122a8b,violated.florist,available,14.99,,medium,low,8,name.com,,,
+b8af3636-7409-4a8c-9350-294178122a8b,violated.florist,available,32.99,32.99,medium,low,8,namesilo,,,27/09/2026 07:04
 8b39f85c-f265-4977-8ca9-98dd4051e8cf,grandchild.florist,available,14.99,,high,low,10,name.com,,,
 3c16dc49-6aa2-43a3-9bca-4fefd7377ba1,blessing.florist,available,14.99,46.99,high,low,8,name.com,,,06/08/2026 09:29
 aa9f513d-cb0d-4863-878e-567f93dd621b,uncurbed.florist,available,31.98,41.98,medium,low,8,namecheap,,,12/09/2026 04:34
 2654a441-eddd-4ad1-b12e-de16c85195ca,unblended.florist,available,31.98,41.98,medium,low,9,namecheap,,,12/09/2026 02:12
 33fbf1f0-a16e-4716-9fda-a8686b5a8a2b,novice.florist,available,31.98,41.98,high,low,6,namecheap,,,23/09/2026 02:23
 8ad0e4ac-757b-4ccd-a64a-0325ccf52af0,endowment.florist,available,14.99,,high,low,9,name.com,,,
+36c8e67c-062f-4764-8af7-6ed4ae14e333,kings.florist,premium,242,242,high,low,5,namesilo,,,27/09/2026 07:24
 41194222-60b7-497a-863c-423a5251904f,holy.florist,available,14.99,46.99,high,low,4,name.com,,,21/08/2026 10:43
 bd488b04-4272-4756-8dbf-b90a5c4558a3,tearless.florist,available,14.99,46.99,medium,low,8,name.com,,,14/08/2026 20:31
 bb521fc4-ec1f-4595-adf8-c94c752dd12a,airdrop.florist,available,32.99,32.99,high,low,7,namesilo,,,17/09/2026 23:06
@@ -599,6 +609,7 @@ bd762eee-fc78-4484-8226-94fc51d83b78,trio.florist,available,32.99,32.99,high,low
 3792e2c8-e69c-48e0-a42e-d7df9a91b1ee,northbound.florist,available,31.98,41.98,high,low,10,namecheap,,,03/09/2026 21:29
 a82149d1-d470-4515-80bb-c8bdcd2a1327,anatolian.florist,available,32.99,32.99,high,low,9,namesilo,,,19/09/2026 03:29
 d06dc702-cfee-4eff-9ac7-86cbb9717cee,quavering.florist,available,31.98,41.98,medium,low,9,namecheap,,,09/09/2026 07:44
+e60e3e26-a8ed-4692-b2ca-eefdd80f40ff,promises.florist,available,32.99,32.99,medium,low,8,namesilo,,,27/09/2026 03:01
 d716a6a1-37cd-422d-a0f3-d20fd8866d8f,arcadic.florist,available,32.99,32.99,medium,low,7,namesilo,,,20/09/2026 01:36
 94912a68-4a1a-4155-8a2d-7a389c7018fb,campanula.florist,available,32.99,32.99,high,low,9,namesilo,,,23/09/2026 06:05
 ac61db8a-71ea-48a8-9f64-2c57139b5de1,doom.florist,available,32.99,32.99,high,low,4,namesilo,,,24/09/2026 23:34
@@ -668,10 +679,12 @@ ffa382e9-9703-4643-81a6-77cd4e2ca92f,invoice.florist,available,32.99,32.99,high,
 f8a5cb01-a051-4f2b-b433-fdae4ba0400e,nodding.florist,available,14.99,46.99,high,low,7,name.com,,,12/08/2026 00:48
 0572ba11-fa96-4eb2-81aa-5733b8ee2b15,hoarse.florist,available,14.99,46.99,medium,low,6,name.com,,,21/08/2026 10:10
 713b470f-b842-4fa7-a858-abcb22f4a3e5,vaginal.florist,available,31.98,41.98,medium,low,7,namecheap,,,13/09/2026 00:49
+bbf5ba08-e83e-41b3-8feb-7da8cf4064df,hoped.florist,available,32.99,32.99,medium,low,5,namesilo,,,27/09/2026 02:59
 e1fb0fb3-ce22-4ccb-8c57-c95dcea98dcf,arbiter.florist,available,32.99,32.99,high,low,7,namesilo,,,20/09/2026 00:41
 3da09af5-707d-4ca1-b405-6dd6037b734c,convex.florist,available,14.99,46.99,high,low,6,name.com,,,11/08/2026 08:24
 cd50a272-b09c-4a93-8536-5cf922eb6f57,masonic.florist,available,14.99,46.99,high,low,7,name.com,,,24/08/2026 16:39
 d57c2d3a-129f-44c7-8d60-fff9e8c0130f,page.florist,available,14.99,,high,low,4,name.com,,,
+e5665fef-ec83-478e-9b66-9b9ef25bb245,manners.florist,available,32.99,32.99,high,low,7,namesilo,,,27/09/2026 04:41
 27ed4fcf-4a5a-4a1d-90e9-dadfaddde564,confounded.florist,available,14.99,46.99,medium,low,10,name.com,,,07/08/2026 11:57
 1d5c821d-9fae-4245-bcd4-319741e15d55,maximizing.florist,available,14.99,46.99,high,low,10,name.com,,,24/08/2026 17:56
 00355ec4-45dd-4002-843e-15da81558b13,porkfish.florist,available,32.99,32.99,medium,low,8,namesilo,,,19/09/2026 09:38
@@ -707,6 +720,7 @@ b86b67a7-d581-4501-abe0-2325d50eeebc,unloose.florist,available,14.99,46.99,mediu
 f9f5f27e-fa52-4e6d-bcda-009354b1659c,trounce.florist,available,14.99,46.99,medium,low,7,name.com,,,09/08/2026 05:27
 8f9e589a-a475-40fd-b19d-ba38f9a8a7a9,amnio.florist,available,14.99,46.99,medium,low,5,name.com,,,18/09/2026 22:23
 464303ea-8d3c-4a18-8768-09b17c697135,jaded.florist,available,14.99,46.99,high,low,5,name.com,,,22/08/2026 11:58
+3199d943-3673-4513-bd3d-f54cc63465bb,throwing.florist,available,32.99,32.99,high,low,8,namesilo,,,27/09/2026 08:46
 165bbaab-60ba-47da-82b8-3ad9ade4d367,attire.florist,available,31.98,41.98,high,low,6,namecheap,,,21/09/2026 01:52
 a90ad192-7a56-4a0c-b8c3-a0891abce541,boyne.florist,available,32.99,32.99,medium,low,5,namesilo,,,22/09/2026 14:51
 a69b21d3-9f9d-4f63-a783-609e4af2c731,stinker.florist,available,14.99,46.99,medium,low,7,name.com,,,11/08/2026 09:15
@@ -728,6 +742,7 @@ d1eff923-c238-4f62-9c20-7be333a5c266,belated.florist,available,14.99,46.99,mediu
 5020ccbd-f5ce-46bb-855e-c4d576e3da8f,sweetened.florist,available,31.98,41.98,high,low,9,namecheap,,,11/09/2026 01:18
 74eb5a46-7887-43f3-a9e8-25a33ef2a5bc,alkahest.florist,available,31.98,41.98,medium,low,8,namecheap,,,18/09/2026 03:42
 11a7a1f2-f605-4abd-87a3-ace32c81cad1,burbling.florist,available,14.99,46.99,medium,low,8,name.com,,,11/08/2026 10:10
+b4e7fddb-f406-4759-b7cb-f39eea2d4517,paige.florist,available,32.99,32.99,high,low,5,namesilo,,,27/09/2026 04:38
 79e035df-41e4-44fd-be36-c5abbd7c55ce,binary.florist,available,32.99,32.99,high,low,6,namesilo,,,22/09/2026 20:45
 3f5c9c9f-875b-4c03-ad24-0a7b67283e43,anima.florist,available,32.99,32.99,high,medium,5,namesilo,,,19/09/2026 08:28
 8011bddb-0dc2-48c2-8d08-4e30236235ce,taunt.florist,available,31.98,41.98,medium,low,5,namecheap,,,11/09/2026 09:13
@@ -771,8 +786,10 @@ ffac4bc4-196a-48c2-b0c7-414afdde85c3,angiology.florist,available,31.98,41.98,med
 dcdc584f-a002-4862-af27-f83f40380b27,modernity.florist,available,32.99,32.99,high,low,9,namesilo,,,24/09/2026 17:40
 fdcac69d-339a-43b5-b3c1-8ce64a3b1f50,heartening.florist,available,14.99,46.99,high,low,10,name.com,,,21/08/2026 02:09
 6a39bff0-037f-4fef-b8b7-08a41c34d0b8,ascetic.florist,available,14.99,46.99,high,low,7,name.com,,,07/08/2026 00:56
+23910931-c85d-452c-8d92-dae58283e92e,effects.florist,available,32.99,32.99,high,low,7,namesilo,,,27/09/2026 03:49
 4a1a19cc-6dfc-432c-9376-e775fa80545f,oxycontin.florist,available,32.99,32.99,medium,low,9,namesilo,,,20/09/2026 00:25
 69fc1205-4f7e-4176-aaa0-b1e140ac2d2c,occupier.florist,available,31.98,41.98,high,low,8,namecheap,,,09/09/2026 14:58
+a7b5b1f4-14b1-49b3-9a31-e8cb510da37c,immediately.florist,available,32.99,32.99,high,low,11,namesilo,,,27/09/2026 06:22
 d79a779f-3fa6-4e7f-b2be-24c7ca684cd1,articular.florist,available,14.99,46.99,medium,low,9,name.com,,,06/08/2026 23:26
 07bea040-e231-4630-8616-513543797745,bauxite.florist,available,32.99,32.99,medium,low,7,namesilo,,,22/09/2026 16:42
 8fb08d2b-92e1-42f9-bcba-2f0d30f2123a,ankylosaur.florist,available,32.99,32.99,medium,low,10,namesilo,,,19/09/2026 09:52
@@ -850,6 +867,7 @@ bddd7dfd-092d-40f3-8fce-6d210498e380,combinations.florist,available,32.99,32.99,
 2e3bc3f0-a8b6-45fa-abc3-984cdda2b3bf,battler.florist,available,14.99,46.99,medium,low,7,name.com,,,09/08/2026 13:32
 3a0d69da-e46e-42b9-b7cb-dfdb0ee2f291,ergotic.florist,available,14.99,46.99,medium,low,7,name.com,,,17/08/2026 12:13
 d40945f9-5929-4425-8dfb-3b86edebd699,alienor.florist,available,32.99,32.99,medium,low,7,namesilo,,,18/09/2026 07:41
+8fd80130-3867-4db8-bc97-6724b6b5f122,championship.florist,available,32.99,32.99,high,low,12,namesilo,,,27/09/2026 02:00
 433b1533-f8d4-49b2-87ab-9f7521b5690d,andrena.florist,available,31.98,41.98,medium,low,7,namecheap,,,19/09/2026 04:31
 47ca0df9-4452-4107-bb52-9263adfb2dbf,nonsmoking.florist,available,31.98,41.98,high,low,11,namecheap,,,16/09/2026 20:03
 8441f23a-37c9-4c93-9fc7-62e9aba04c37,xvii.florist,available,31.98,41.98,high,low,4,namecheap,,,21/09/2026 11:53
@@ -878,7 +896,7 @@ f5f0a953-fe3e-4bc7-a14a-572f18271ddb,lifelike.florist,available,14.99,46.99,high
 badd3314-0b50-4f59-baa4-11b6c46da296,avocado.florist,available,32.99,32.99,high,low,7,namesilo,,,22/09/2026 14:34
 4260bc11-f47b-4b67-9503-4d1824964581,hourlong.florist,available,14.99,46.99,medium,low,8,name.com,,,21/08/2026 14:22
 4e5d1547-e3cd-4622-8999-4644ad50f92e,oncoming.florist,available,31.98,41.98,high,low,8,namecheap,,,04/09/2026 14:27
-3310f9d1-29b1-4f92-9fbd-bba1bc80c4d1,pen.florist,available,14.99,,high,low,3,name.com,,,
+3310f9d1-29b1-4f92-9fbd-bba1bc80c4d1,pen.florist,available,32.99,32.99,high,low,3,namesilo,,,27/09/2026 03:22
 b3e3617a-00cf-4b3f-b6b6-fd20ae02bd32,samarium.florist,available,31.98,41.98,medium,low,8,namecheap,,,20/09/2026 23:24
 aee5d778-0d07-4b3f-8bd6-20ff1d5203dc,drippage.florist,available,31.98,41.98,medium,low,8,namecheap,,,14/09/2026 14:34
 62a40000-d95d-4b73-ae92-cd4f49baf8ba,corelli.florist,available,32.99,32.99,medium,low,7,namesilo,,,20/09/2026 01:37
@@ -908,7 +926,7 @@ ad59c192-98b4-4078-93ba-93e2cbc8104e,genes.florist,available,32.99,32.99,medium,
 e1eb54c9-fff2-410b-9156-6846523f5dfd,finest.florist,premium,85.8,85.8,high,low,6,namecheap,,,25/09/2026 18:42
 6a172f42-b68f-4671-b279-0a5d6acfbfdc,cognate.florist,available,14.99,46.99,high,low,7,name.com,,,10/08/2026 15:14
 d2858bb3-76c8-40bd-9d58-f8283bc57651,specialty.florist,available,14.99,46.99,high,low,9,name.com,,,18/08/2026 12:30
-de2d55ef-1724-46bc-a84a-7495e585e781,profound.florist,available,14.99,,high,low,8,name.com,,,
+de2d55ef-1724-46bc-a84a-7495e585e781,profound.florist,available,32.99,32.99,high,low,8,namesilo,,,27/09/2026 07:12
 a44a0ed8-16b5-4a2f-9a7b-1e816fc55233,illuminated.florist,available,14.99,,high,low,11,name.com,,,
 66724268-24d0-4825-ad08-7135f8f0648e,knowing.florist,available,32.99,32.99,high,low,7,namesilo,,,25/09/2026 10:04
 6102c524-30e4-45f6-91ab-5f1d58eba1b7,large.florist,available,31.98,41.98,high,low,5,namecheap,,,23/09/2026 09:13
@@ -955,6 +973,7 @@ d4177442-cf9d-4564-bcf3-e2f1ff306b5b,amble.florist,available,32.99,32.99,high,lo
 64d2468c-d8cd-4881-8213-9f47981f0047,barricade.florist,available,32.99,32.99,high,low,9,namesilo,,,22/09/2026 08:32
 35f63000-270c-44df-8e86-fdf2a2323866,tirana.florist,available,32.99,32.99,high,low,6,namesilo,,,18/09/2026 02:27
 bfc7009c-a6c5-4c74-b1b8-eacf441fb0ca,wilkinson.florist,available,32.99,32.99,high,low,9,namesilo,,,25/09/2026 10:42
+604c9f1b-cc4b-43b7-939e-5e53366a0aeb,becomes.florist,available,32.99,32.99,medium,low,7,namesilo,,,27/09/2026 10:31
 b47559e5-5792-4976-b899-ff67a5a82b32,sir.florist,available,31.98,41.98,high,low,3,namecheap,,,26/09/2026 00:18
 f69d9ffd-63a1-469a-a42f-2a50e72cd376,detected.florist,available,31.98,41.98,high,low,8,namecheap,,,24/09/2026 07:30
 8822549c-f260-46ff-a6bc-51ed2f553baa,glacial.florist,available,14.99,46.99,medium,low,7,name.com,,,18/08/2026 16:28
@@ -962,7 +981,7 @@ c6409602-eaaf-4e61-8ecb-52e17a7b94c1,stopgap.florist,available,14.99,46.99,high,
 b0b48a1e-fb0b-4c9a-b5a0-79d065abe5f6,steamed.florist,available,14.99,46.99,high,low,7,name.com,,,
 4a934c71-e92c-4f2c-98f2-84b3dac044e3,uppish.florist,available,14.99,46.99,low,low,6,name.com,,,09/08/2026 20:46
 febfd27e-9d11-4480-ba37-ac5ec0b7af8c,sapid.florist,available,14.99,46.99,medium,low,5,name.com,,,18/08/2026 07:14
-b61db9d6-b0af-4dc1-a719-4b0385f08644,specific.florist,available,14.99,,high,low,8,name.com,,,
+b61db9d6-b0af-4dc1-a719-4b0385f08644,specific.florist,available,32.99,32.99,high,low,8,namesilo,,,27/09/2026 02:45
 3f943f1e-5ad2-4782-9a50-a84bee8fed96,grapefruit.florist,available,32.99,32.99,high,low,10,namesilo,,,24/09/2026 15:09
 530f918d-8b1a-48fa-9797-797aa1dedc71,desolation.florist,available,14.99,46.99,medium,low,10,name.com,,,22/09/2026 05:24
 95622fd7-6f35-4e54-8c48-305174a0c952,lunatic.florist,available,14.99,46.99,high,low,7,name.com,,,13/08/2026 17:47
@@ -980,22 +999,3 @@ a04a02fa-4ad3-4d90-ac6f-c9523b4383b2,unyielding.florist,available,14.99,46.99,hi
 5287e116-5deb-4797-af37-47f08c8918a4,faithful.florist,available,32.99,32.99,high,low,8,namesilo,,,24/09/2026 16:23
 5645ab04-f752-48d0-a5db-f1beef8cf111,appetizer.florist,available,31.98,41.98,high,low,9,namecheap,,,19/09/2026 20:45
 825d48af-df36-4630-9058-f8090578d5b7,arctic.florist,available,14.99,46.99,high,low,6,name.com,,,06/08/2026 16:07
-2a7b42d2-c2a7-4c39-9761-dabd94488858,sanious.florist,available,14.99,46.99,medium,low,7,name.com,,,21/08/2026 17:49
-bf069e65-a7ad-4424-a978-fbdf03ea5451,hathaway.florist,available,31.98,41.98,high,low,8,namecheap,,,19/09/2026 10:18
-63fa2019-1a6a-4550-a0a4-8a5a2868feec,unlocking.florist,available,14.99,,high,low,9,name.com,,,
-4f6053d5-956f-4d37-aa6b-f67889b58625,several.florist,available,14.99,,high,low,7,name.com,,,
-982d4b76-5697-48c8-9742-7900389bb210,tell.florist,available,14.99,,high,low,4,name.com,,,
-d1c67be3-86a6-4c5f-a70f-e50fc663da8a,yum.florist,available,14.99,,high,low,3,name.com,,,
-2c82737a-5ac9-4613-8253-93b71d670c32,alacrity.florist,available,32.99,32.99,high,low,8,namesilo,,,18/09/2026 01:37
-e5a496fd-3e40-4a52-ac20-6359d1d35e6f,angostura.florist,available,32.99,32.99,medium,low,9,namesilo,,,19/09/2026 07:08
-35e99708-e47b-40b6-99ba-0d6a58992a73,penile.florist,available,31.98,41.98,medium,low,6,namecheap,,,08/09/2026 14:21
-c0323b07-b106-4dd2-9e4e-bde1bf57385d,sony.florist,available,,,high,medium,4,,,,
-d965ba61-c037-4cd3-99e7-9a8bd92786ae,foaming.florist,available,14.99,46.99,high,low,7,name.com,,,11/08/2026 07:18
-c15b396b-fe05-4835-9ebd-2bceba23b6e4,critique.florist,available,14.99,,high,low,8,name.com,,,
-8c371c79-0ee9-40a9-9c59-f153c736d738,squealed.florist,available,32.99,32.99,low,low,8,namesilo,,,20/09/2026 17:30
-2386fd82-d2a6-4352-8e46-fc12d1dac6a6,ensure.florist,available,14.99,,high,low,6,name.com,,,
-c6b0c8c2-5d30-4700-ab12-e31f01a10740,terrorist.florist,available,31.98,41.98,medium,low,9,namecheap,,,25/09/2026 10:50
-866e1621-3ec9-4911-b554-8bcbd918f200,inferior.florist,available,14.99,46.99,high,low,8,name.com,,,22/08/2026 04:19
-de939004-5d99-4625-97f0-862635310542,operator.florist,available,31.98,41.98,high,low,8,namecheap,,,25/09/2026 23:32
-03058496-f814-4fab-acc1-c491b34bdcf8,mimicry.florist,available,32.99,32.99,medium,low,7,namesilo,,,19/09/2026 16:43
-ec222215-9c7e-4c98-89a7-1e467ae03e37,acyclovir.florist,available,32.99,32.99,medium,low,9,namesilo,,,17/09/2026 05:41
